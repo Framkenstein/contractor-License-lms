@@ -101,15 +101,6 @@ export function Dashboard({
             educational content. If demand exists, I hope to expand to other classifications as time and resources 
             permit. Thank you!
           </p>
-          <a
-            href="https://buymeacoffee.com/dreadpirateroberts"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 mt-3 px-4 py-2 bg-amber-500 text-slate-900 font-semibold rounded-lg hover:bg-amber-400 transition-colors text-sm"
-          >
-            <Coffee className="w-4 h-4" />
-            Buy Me a Coffee
-          </a>
         </div>
         <div className="grid md:grid-cols-3 gap-4 mt-6">
           <div className="flex items-start gap-3">
