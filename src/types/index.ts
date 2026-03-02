@@ -2,6 +2,7 @@ export interface Lesson {
   id: string;
   title: string;
   videoPath: string;
+  youtubeId?: string;
   duration?: string;
   moduleId: number;
   sectionId: number;

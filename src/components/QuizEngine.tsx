@@ -73,7 +73,7 @@ export function QuizEngine({ title, questions, passingScore, onComplete, timeLim
   };
 
   const handleFinish = () => {
-    const correctCount = answers.reduce((count, answer, idx) => {
+    const correctCount = answers.reduce((count: number, answer, idx) => {
       return answer === questions[idx]?.correctAnswer ? count + 1 : count;
     }, 0);
 
@@ -105,7 +105,7 @@ export function QuizEngine({ title, questions, passingScore, onComplete, timeLim
   }
 
   if (isComplete) {
-    const score = answers.reduce((count, answer, idx) => {
+    const score = answers.reduce((count: number, answer, idx) => {
       return answer === questions[idx]?.correctAnswer ? count + 1 : count;
     }, 0);
     const percentage = Math.round((score / questions.length) * 100);
@@ -145,7 +145,7 @@ export function QuizEngine({ title, questions, passingScore, onComplete, timeLim
             <p className="text-sm text-slate-400">Correct</p>
           </div>
           <div className="text-center">
-            <p className="text-4xl font-bold text-white">{questions.length - score}</p>
+            <p className="text-4xl font-bold text-white">{questions.length - (score ?? 0)}</p>
             <p className="text-sm text-slate-400">Incorrect</p>
           </div>
           <div className="text-center">

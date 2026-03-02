@@ -12,7 +12,63 @@ interface VideoPlayerProps {
   initialProgress?: number;
 }
 
+// Check if lesson has a YouTube video ID
+function isYouTubeVideo(lesson: Lesson): boolean {
+  return !!(lesson as any).youtubeId;
+}
+
+// YouTube Player Component
+function YouTubePlayer({ lesson, onComplete }: { lesson: Lesson; onComplete: () => void }) {
+  const [hasCompleted, setHasCompleted] = useState(false);
+  const youtubeId = (lesson as any).youtubeId;
+
+  useEffect(() => {
+    setHasCompleted(false);
+  }, [lesson.id]);
+
+  // Mark complete after user has watched (we can't track YouTube progress directly without API)
+  // Using a simple approach: mark complete when they've been on the page
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      if (!hasCompleted) {
+        setHasCompleted(true);
+        onComplete();
+      }
+    }, 60000); // Mark complete after 1 minute of viewing
+
+    return () => clearTimeout(timer);
+  }, [lesson.id, hasCompleted, onComplete]);
+
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="relative bg-black rounded-xl overflow-hidden"
+    >
+      <div className="aspect-video">
+        <iframe
+          src={`https://www.youtube.com/embed/${youtubeId}?rel=0&modestbranding=1`}
+          title={lesson.title}
+          className="w-full h-full"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+        />
+      </div>
+    </motion.div>
+  );
+}
+
 export function VideoPlayer({ lesson, onProgress, onComplete, initialProgress = 0 }: VideoPlayerProps) {
+  // If this lesson has a YouTube ID, use the YouTube player
+  if (isYouTubeVideo(lesson)) {
+    return <YouTubePlayer lesson={lesson} onComplete={onComplete} />;
+  }
+
+  // Otherwise, use the local video player
+  return <LocalVideoPlayer lesson={lesson} onProgress={onProgress} onComplete={onComplete} initialProgress={initialProgress} />;
+}
+
+function LocalVideoPlayer({ lesson, onProgress, onComplete, initialProgress = 0 }: VideoPlayerProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
