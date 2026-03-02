@@ -16,35 +16,40 @@
           "title": "The Licensing Journey – From Application to Active License",
           "videoPath": "/videos/Module 1 – Section 2_ The Licensing Journey – From Application to Active License.mp4",
           "moduleId": 1,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "BFkB6RKEO8Q"
         },
         {
           "id": "m1-s3",
           "title": "Building a Study Plan for Exam Success",
           "videoPath": "/videos/Module 1 – Section 3_ Building a Study Plan for Exam Success.mp4",
           "moduleId": 1,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "ZhZpxkA5IY4"
         },
         {
           "id": "m1-s4",
           "title": "CSLB Notifications – Acknowledgment Letters Explained",
           "videoPath": "/videos/Section 4_ CSLB Notifications – Acknowledgment Letters Explained.mp4",
           "moduleId": 1,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "O5p6aa_tXsE"
         },
         {
           "id": "m1-s5",
           "title": "Scheduling Your Exams and Preparing for Test Day",
           "videoPath": "/videos/Module 1 – Section 5_ Scheduling Your Exams and Preparing for Test Day.mp4",
           "moduleId": 1,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "pJfloiHilv0"
         },
         {
           "id": "m1-s6",
           "title": "After You Pass – Bonds, Insurance, and License Activation",
           "videoPath": "/videos/Module 1 – Section 6_ After You Pass – Bonds, Insurance, and License Activation.mp4",
           "moduleId": 1,
-          "sectionId": 6
+          "sectionId": 6,
+          "youtubeId": "1atqTZg500Y"
         }
       ]
     },
@@ -57,14 +62,16 @@
           "title": "Choosing a Business Structure for Your Contracting Company",
           "videoPath": "/videos/Module 2 – Section 1_ Choosing a Business Structure for Your Contracting Company.mp4",
           "moduleId": 2,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "kTTI2mP1B3U"
         },
         {
           "id": "m2-s2",
           "title": "Completing the CSLB License Application – Step-by-Step",
           "videoPath": "/videos/Module 2 – Section 2_ Completing the CSLB License Application – Step-by-Step.mp4",
           "moduleId": 2,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "-kjlPxGOcZc"
         },
         {
           "id": "m2-s3",
@@ -78,14 +85,16 @@
           "title": "Selecting and Preparing a Qualifier to Verify Experience",
           "videoPath": "/videos/Module 2 – Section 4_ Selecting and Preparing a Qualifier to Verify Experience.mp4",
           "moduleId": 2,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "rnT79fNRtC0"
         },
         {
           "id": "m2-s5",
           "title": "Avoiding Common Application Mistakes",
           "videoPath": "/videos/Module 2 – Section 5_ Avoiding Common Application Mistakes.mp4",
           "moduleId": 2,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "mEOD2T-40IY"
         }
       ]
     },
@@ -98,49 +107,56 @@
           "title": "The Role of Math in Estimating and Planning Projects",
           "videoPath": "/videos/Module 3 – Section 1_ The Role of Math in Estimating and Planning Projects.mp4",
           "moduleId": 3,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "2RVYg1uEK8I"
         },
         {
           "id": "m3-s2",
           "title": "Measurement Basics, Conversions, and Abbreviations",
           "videoPath": "/videos/Module 3 – Section 2_ Measurement Basics, Conversions, and Abbreviations.mp4",
           "moduleId": 3,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "QtTcyQwt7bs"
         },
         {
           "id": "m3-s3",
           "title": "Reading Scales and Interpreting Dimensions",
           "videoPath": "/videos/Module 3 – Section 3_ Reading Scales and Interpreting Dimensions.mp4",
           "moduleId": 3,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "OVV5Khe7tX4"
         },
         {
           "id": "m3-s4",
           "title": "Calculating Areas, Volumes, and Irregular Shapes",
           "videoPath": "/videos/Section 4_ Calculating Areas, Volumes, and Irregular Shapes.mp4",
           "moduleId": 3,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "wwCXGL_3DXw"
         },
         {
           "id": "m3-s5",
           "title": "Board Feet and Lumber Estimations",
           "videoPath": "/videos/Module 3 – Section 5_ Board Feet and Lumber Estimations.mp4",
           "moduleId": 3,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "5s5VL2Uk9mw"
         },
         {
           "id": "m3-s6",
           "title": "Roof Pitch, Slopes, and Diagonal Measurements",
           "videoPath": "/videos/Module 3 – Section 6_ Roof Pitch, Slopes, and Diagonal Measurements.mp4",
           "moduleId": 3,
-          "sectionId": 6
+          "sectionId": 6,
+          "youtubeId": "vLq6edM7ECQ"
         },
         {
           "id": "m3-s7",
           "title": "Mixed Practice Problems for Exam Preparation",
           "videoPath": "/videos/Module 3 – Section 7_ Mixed Practice Problems for Exam Preparation.mp4",
           "moduleId": 3,
-          "sectionId": 7
+          "sectionId": 7,
+          "youtubeId": "PDu5uYwegxg"
         }
       ]
     },
@@ -153,63 +169,72 @@
           "title": "Contractor Laws and CSLB Rules Explained",
           "videoPath": "/videos/Module 4 – Section 1_ Contractor Laws and CSLB Rules Explained.mp4",
           "moduleId": 4,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "gfZt4HhjL_M"
         },
         {
           "id": "m4-s2",
           "title": "Safety Compliance and Cal/OSHA Essentials",
           "videoPath": "/videos/Module 4 – Section 2_ Safety Compliance and Cal_OSHA Essentials.mp4",
           "moduleId": 4,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "0e2K0VRqEGI"
         },
         {
           "id": "m4-s3",
           "title": "Injury Prevention, Ladders, Scaffolding, and Fall Protection",
           "videoPath": "/videos/Module 4 – Section 3_ Injury Prevention, Ladders, Scaffolding, and Fall Protection.mp4",
           "moduleId": 4,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "xwRBoECdDHc"
         },
         {
           "id": "m4-s4",
           "title": "Electrical Hazards, Fire Safety, and Proper PPE",
           "videoPath": "/videos/Module 4 – Section 4_ Electrical Hazards, Fire Safety, and Proper PPE.mp4",
           "moduleId": 4,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "IhRIX6_aR9k"
         },
         {
           "id": "m4-s5",
           "title": "Permit Management and Accurate Recordkeeping",
           "videoPath": "/videos/Module 4 – Section 5_ Permit Management and Accurate Recordkeeping.mp4",
           "moduleId": 4,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "Kz18kpkkSgs"
         },
         {
           "id": "m4-s6",
           "title": "Business Organization and Financial Management",
           "videoPath": "/videos/Module 4 – Section 6_ Business Organization and Financial Management.mp4",
           "moduleId": 4,
-          "sectionId": 6
+          "sectionId": 6,
+          "youtubeId": "0hdQghnqcwk"
         },
         {
           "id": "m4-s7",
           "title": "Hiring, Subcontractor Rules, and Employment Law Basics",
           "videoPath": "/videos/Module 4 – Section 7_ Hiring, Subcontractor Rules, and Employment Law Basics.mp4",
           "moduleId": 4,
-          "sectionId": 7
+          "sectionId": 7,
+          "youtubeId": "TAK1GUxUpF4"
         },
         {
           "id": "m4-s8",
           "title": "Insurance, Bonds, and Mechanic's Liens",
           "videoPath": "/videos/Module 4 – Section 8_ Insurance, Bonds, and Mechanic's Liens.mp4",
           "moduleId": 4,
-          "sectionId": 8
+          "sectionId": 8,
+          "youtubeId": "WJr2tR_AWh4"
         },
         {
           "id": "m4-s9",
           "title": "Contracts, Change Orders, and Legal Obligations",
           "videoPath": "/videos/Module 4 – Section 9_ Contracts, Change Orders, and Legal Obligations.mp4",
           "moduleId": 4,
-          "sectionId": 9
+          "sectionId": 9,
+          "youtubeId": "0HKhPXLwQgY"
         }
       ]
     },
@@ -222,98 +247,112 @@
           "title": "Site Preparation, Earthwork, and Leveling Basics",
           "videoPath": "/videos/Module 5 – Section 1_ Site Preparation, Earthwork, and Leveling Basics.mp4",
           "moduleId": 5,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "7lBIdx361Ms"
         },
         {
           "id": "m5-s2",
           "title": "Recognizing Structural Elements and Staying Within B-2 Limits",
           "videoPath": "/videos/Module 5 – Section 2_ Recognizing Structural Elements and Staying Within B-2 Limits.mp4",
           "moduleId": 5,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "xXLnuSveAWw"
         },
         {
           "id": "m5-s3",
           "title": "Small-Scale Concrete Work for Remodeling Projects",
           "videoPath": "/videos/Module 5 – Section 3_ Small-Scale Concrete Work for Remodeling Projects.mp4",
           "moduleId": 5,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "9v6uIRrik6k"
         },
         {
           "id": "m5-s4",
           "title": "Plumbing Fixture Replacement and Code Compliance",
           "videoPath": "/videos/Module 5 – Section 4_ Plumbing Fixture Replacement and Code Compliance.mp4",
           "moduleId": 5,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "s11kzSQ7JGI"
         },
         {
           "id": "m5-s5",
           "title": "Electrical Fixture Installation and GFCI/AFCI Protection",
           "videoPath": "/videos/Module 5 – Section 5_ Electrical Fixture Installation and GFCI_AFCI Protection.mp4",
           "moduleId": 5,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "7xtWCgFCfKM"
         },
         {
           "id": "m5-s6",
           "title": "Basic HVAC Knowledge – Fans, Filters, Return Air Grills",
           "videoPath": "/videos/Module 5 – Section 6_ Basic HVAC Knowledge – Fans, Filters, Return Air Grills.mp4",
           "moduleId": 5,
-          "sectionId": 6
+          "sectionId": 6,
+          "youtubeId": "herYzhRqhug"
         },
         {
           "id": "m5-s7",
           "title": "Windows, Doors, and Energy-Efficient Installations",
           "videoPath": "/videos/Module 5 – Section 7_ Windows, Doors, and Energy-Efficient Installations.mp4",
           "moduleId": 5,
-          "sectionId": 7
+          "sectionId": 7,
+          "youtubeId": "Mf9fCscB9II"
         },
         {
           "id": "m5-s8",
           "title": "Interior Wall Construction, Drywall, and Trim Carpentry",
           "videoPath": "/videos/Module 5 – Section 8_ Interior Wall Construction, Drywall, and Trim Carpentry.mp4",
           "moduleId": 5,
-          "sectionId": 8
+          "sectionId": 8,
+          "youtubeId": "ocFx78VXMVk"
         },
         {
           "id": "m5-s9",
           "title": "Flooring and Stair Installation Techniques",
           "videoPath": "/videos/Module 5 – Section 9_ Flooring and Stair Installation Techniques.mp4",
           "moduleId": 5,
-          "sectionId": 9
+          "sectionId": 9,
+          "youtubeId": "gwMXG3Mkc_E"
         },
         {
           "id": "m5-s10",
           "title": "Insulation Types, Installation, and Energy Standards",
           "videoPath": "/videos/Module 5 – Section 10_ Insulation Types, Installation, and Energy Standards.mp4",
           "moduleId": 5,
-          "sectionId": 10
+          "sectionId": 10,
+          "youtubeId": "H_uIKKioCHQ"
         },
         {
           "id": "m5-s11",
           "title": "Cabinetry, Countertops, and Backsplash Methods",
           "videoPath": "/videos/Module 5 – Section 11_ Cabinetry, Countertops, and Backsplash Methods.mp4",
           "moduleId": 5,
-          "sectionId": 11
+          "sectionId": 11,
+          "youtubeId": "a937vtwxLiE"
         },
         {
           "id": "m5-s12",
           "title": "Interior Painting, Staining, and CALGreen Material Requirements",
           "videoPath": "/videos/Module 5 – Section 12_ Interior Painting, Staining, and CALGreen Material Requirements.mp4",
           "moduleId": 5,
-          "sectionId": 12
+          "sectionId": 12,
+          "youtubeId": "s876bmSICXs"
         },
         {
           "id": "m5-s13",
           "title": "Fireplace and Mantel Remodeling Considerations",
           "videoPath": "/videos/Module 5 – Section 13_ Fireplace and Mantel Remodeling Considerations.mp4",
           "moduleId": 5,
-          "sectionId": 13
+          "sectionId": 13,
+          "youtubeId": "4VbBmfhorSk"
         },
         {
           "id": "m5-s14",
           "title": "Exterior Repairs – Roof Patching, Siding, Stucco, and Paint",
           "videoPath": "/videos/Module 5 – Section 14_ Exterior Repairs – Roof Patching, Siding, Stucco, and Paint.mp4",
           "moduleId": 5,
-          "sectionId": 14
+          "sectionId": 14,
+          "youtubeId": "Dz23s1WrdZw"
         }
       ]
     },
@@ -326,35 +365,40 @@
           "title": "Introduction to California Building Standards Code",
           "videoPath": "/videos/Module 6 – Section 1_ Introduction to California Building Standards Code.mp4",
           "moduleId": 6,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "9v5EYNbS7mM"
         },
         {
           "id": "m6-s2",
           "title": "Title 24 Part 6 – Energy Efficiency Rules for Remodelers",
           "videoPath": "/videos/Module 6 – Section 2_ Title 24 Part 6 – Energy Efficiency Rules for Remodelers.mp4",
           "moduleId": 6,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "YfY1FLGrIl4"
         },
         {
           "id": "m6-s3",
           "title": "Title 24 Part 11 – Green Building Requirements and Low-VOC Products",
           "videoPath": "/videos/Module 6 – Section 3_ Title 24 Part 11 – Green Building Requirements and Low-VOC Products.mp4",
           "moduleId": 6,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "YodlYLVMvco"
         },
         {
           "id": "m6-s4",
           "title": "Accessibility Standards for Residential Remodeling Projects",
           "videoPath": "/videos/Module 6 – Section 4_ Accessibility Standards for Residential Remodeling Projects.mp4",
           "moduleId": 6,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "NEFV2xAHf3o"
         },
         {
           "id": "m6-s5",
           "title": "Plan Reviews, Permitting, and Inspection Procedures",
           "videoPath": "/videos/Module 6 – Section 5_ Plan Reviews, Permitting, and Inspection Procedures.mp4",
           "moduleId": 6,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "ylFgpcjpwjk"
         }
       ]
     },
@@ -367,49 +411,56 @@
           "title": "Defining Project Scope and Identifying Needed Trades",
           "videoPath": "/videos/Module 7 – Section 1_ Defining Project Scope and Identifying Needed Trades.mp4",
           "moduleId": 7,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "FoXsvElqY3c"
         },
         {
           "id": "m7-s2",
           "title": "Reading Blueprints and Specifications Accurately",
           "videoPath": "/videos/Module 7 – Section 2_ Reading Blueprints and Specifications Accurately.mp4",
           "moduleId": 7,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "eeG0BqLaRsI"
         },
         {
           "id": "m7-s3",
           "title": "Detecting Design Errors Before They Cost You Money",
           "videoPath": "/videos/Module 7 – Section 3_ Detecting Design Errors Before They Cost You Money.mp4",
           "moduleId": 7,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "eeG0BqLaRsI"
         },
         {
           "id": "m7-s4",
           "title": "Coordinating Trades and Scheduling Work Effectively",
           "videoPath": "/videos/Module 7 – Section 4_ Coordinating Trades and Scheduling Work Effectively.mp4",
           "moduleId": 7,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "0m1ixe1XYUk"
         },
         {
           "id": "m7-s5",
           "title": "Estimating Labor, Materials, and Equipment Costs",
           "videoPath": "/videos/Module 7 – Section 5_ Estimating Labor, Materials, and Equipment Costs.mp4",
           "moduleId": 7,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "divPiLmU6ck"
         },
         {
           "id": "m7-s6",
           "title": "Markups, Profit Margins, and Competitive Bidding",
           "videoPath": "/videos/Module 7 – Section 6_ Markups, Profit Margins, and Competitive Bidding.mp4",
           "moduleId": 7,
-          "sectionId": 6
+          "sectionId": 6,
+          "youtubeId": "2hNba7mYI3I"
         },
         {
           "id": "m7-s7",
           "title": "Practice Estimating Problems for Exam Readiness",
           "videoPath": "/videos/Module 7 – Section 7_ Practice Estimating Problems for Exam Readiness.mp4",
           "moduleId": 7,
-          "sectionId": 7
+          "sectionId": 7,
+          "youtubeId": "5v5liYWANKg"
         }
       ]
     },
@@ -422,28 +473,32 @@
           "title": "Developing a Safety Plan (IIPP Requirements)",
           "videoPath": "/videos/Module 8 – Section 1_ Developing a Safety Plan (IIPP Requirements).mp4",
           "moduleId": 8,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "0gLmXGfam5Q"
         },
         {
           "id": "m8-s2",
           "title": "Safe Demolition and Dust Control Practices",
           "videoPath": "/videos/Module 8 – Section 2_ Safe Demolition and Dust Control Practices.mp4",
           "moduleId": 8,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "B4AU7_8Q8rU"
         },
         {
           "id": "m8-s3",
           "title": "Handling Hazardous Materials (Lead and Asbestos Awareness)",
           "videoPath": "/videos/Module 8 – Section 3_ Handling Hazardous Materials (Lead and Asbestos Awareness).mp4",
           "moduleId": 8,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "7ZxiyvJOb0k"
         },
         {
           "id": "m8-s4",
           "title": "Emergency Procedures, Reporting, and Cal/OSHA Compliance",
           "videoPath": "/videos/Module 8 – Section 4_ Emergency Procedures, Reporting, and Cal_OSHA Compliance.mp4",
           "moduleId": 8,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "fAslkSo5_LA"
         }
       ]
     },
@@ -456,42 +511,48 @@
           "title": "Test-Taking Strategies and Time Management",
           "videoPath": "/videos/Module 9 – Section 1_ Test-Taking Strategies and Time Management.mp4",
           "moduleId": 9,
-          "sectionId": 1
+          "sectionId": 1,
+          "youtubeId": "T7auCtA_keI"
         },
         {
           "id": "m9-s2",
           "title": "High-Frequency Law & Business Exam Topics",
           "videoPath": "/videos/Module 9 – Section 2_ High-Frequency Law & Business Exam Topics.mp4",
           "moduleId": 9,
-          "sectionId": 2
+          "sectionId": 2,
+          "youtubeId": "Sj_xzoL1ud8"
         },
         {
           "id": "m9-s3",
           "title": "High-Frequency B-2 Trade Exam Topics",
           "videoPath": "/videos/Module 9 – Section 3_ High-Frequency B-2 Trade Exam Topics.mp4",
           "moduleId": 9,
-          "sectionId": 3
+          "sectionId": 3,
+          "youtubeId": "2eBlSxqjqJc"
         },
         {
           "id": "m9-s4",
           "title": "Sample Exam Questions with Detailed Answers – Law & Business",
           "videoPath": "/videos/Module 9 – Section 4_ Sample Exam Questions with Detailed Answers – Law & Business.mp4",
           "moduleId": 9,
-          "sectionId": 4
+          "sectionId": 4,
+          "youtubeId": "N4Nv1rVs0xM"
         },
         {
           "id": "m9-s5",
           "title": "Sample Exam Questions with Detailed Answers – B-2 Trade",
           "videoPath": "/videos/Module 9 – Section 5_ Sample Exam Questions with Detailed Answers – B-2 Trade.mp4",
           "moduleId": 9,
-          "sectionId": 5
+          "sectionId": 5,
+          "youtubeId": "D6zifqQ_F9Y"
         },
         {
           "id": "m9-s6",
           "title": "Congratulations & Next Steps",
           "videoPath": "/videos/Module 9 – Section 6_ Congratulations & Next Steps.mp4",
           "moduleId": 9,
-          "sectionId": 6
+          "sectionId": 6,
+          "youtubeId": "bWpfnzJ9VKQ"
         }
       ]
     }
