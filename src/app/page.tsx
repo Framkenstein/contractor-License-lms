@@ -9,7 +9,7 @@ import { QuizEngine } from '@/components/QuizEngine';
 import { Dashboard } from '@/components/Dashboard';
 import { ProgressBar } from '@/components/ProgressBar';
 import { useProgress } from '@/hooks/useProgress';
-import { getModules, getQuizzes, getPracticeExams, getLessonQuiz } from '@/lib/courseData';
+import { getModules, getQuizzes, getPracticeExams, getLessonQuiz, getLessonTakeaways } from '@/lib/courseData';
 import { Module, Quiz, PracticeExam, Lesson, QuizQuestion } from '@/types';
 
 type ViewType = 'dashboard' | 'lesson' | 'quiz' | 'exam';
@@ -22,6 +22,7 @@ export default function HomePage() {
   const [currentQuiz, setCurrentQuiz] = useState<Quiz | null>(null);
   const [currentExam, setCurrentExam] = useState<PracticeExam | null>(null);
   const [lessonQuizQuestions, setLessonQuizQuestions] = useState<QuizQuestion[] | null>(null);
+  const [lessonTakeaways, setLessonTakeaways] = useState<string[] | null>(null);
 
   const {
     progress,
@@ -45,6 +46,7 @@ export default function HomePage() {
     if (lesson) {
       setCurrentLesson(lesson);
       setLessonQuizQuestions(getLessonQuiz(lessonId));
+      setLessonTakeaways(getLessonTakeaways(lessonId));
       setActiveView('lesson');
       setActiveItemId(lessonId);
     }
@@ -221,6 +223,28 @@ export default function HomePage() {
                     </div>
                   )}
                 </div>
+
+                {/* Key Takeaways - shown below lesson info */}
+                {lessonTakeaways && lessonTakeaways.length > 0 && (
+                  <div className="mt-6 bg-slate-800/50 rounded-xl p-6 border border-slate-700/50">
+                    <div className="flex items-center gap-2 mb-4">
+                      <svg className="w-5 h-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+                      </svg>
+                      <h3 className="text-lg font-semibold text-amber-500">Key Takeaways</h3>
+                    </div>
+                    <ul className="space-y-3">
+                      {lessonTakeaways.map((takeaway, index) => (
+                        <li key={index} className="flex items-start gap-3 text-slate-300">
+                          <span className="flex-shrink-0 w-6 h-6 bg-amber-500/20 text-amber-500 rounded-full flex items-center justify-center text-xs font-medium">
+                            {index + 1}
+                          </span>
+                          <span className="text-sm leading-relaxed">{takeaway}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
 
                 {/* Lesson Quiz - shown below video */}
                 {lessonQuizQuestions && lessonQuizQuestions.length > 0 && (

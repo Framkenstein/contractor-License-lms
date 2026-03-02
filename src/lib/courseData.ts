@@ -2,9 +2,11 @@ import lessonsData from '@/data/lessons.json';
 import quizzesData from '@/data/quizzes.json';
 import practiceExamsData from '@/data/practice-exams.json';
 import lessonQuizzesData from '@/data/lesson-quizzes.json';
+import lessonTakeawaysData from '@/data/lesson-takeaways.json';
 import { Module, Quiz, PracticeExam, QuizQuestion } from '@/types';
 
 const lessonQuizzesMap = lessonQuizzesData as Record<string, QuizQuestion[]>;
+const lessonTakeawaysMap = lessonTakeawaysData as Record<string, string[]>;
 
 const quizQuestionsMap: Record<string, QuizQuestion[]> = {
   'quiz-section-4': (quizzesData as Record<string, QuizQuestion[]>).section4 || [],
@@ -73,6 +75,10 @@ export function getTotalLessons(): number {
 
 export function getLessonQuiz(lessonId: string): QuizQuestion[] | null {
   return lessonQuizzesMap[lessonId] || null;
+}
+
+export function getLessonTakeaways(lessonId: string): string[] | null {
+  return lessonTakeawaysMap[lessonId] || null;
 }
 
 export function getTopicQuizzes(): Record<string, QuizQuestion[]> {
