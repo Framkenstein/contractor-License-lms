@@ -92,6 +92,24 @@ export function Dashboard({
           Welcome to this free B-2 Residential Remodeling Contractor License exam preparation course. 
           Designed to help aspiring contractors pass their California State License Board (CSLB) exams with confidence.
         </p>
+        
+        {/* Donation Request */}
+        <div className="bg-amber-500/10 border border-amber-500/30 rounded-xl p-4 mb-4">
+          <p className="text-slate-300 text-sm leading-relaxed">
+            I spent a lot of time and money creating this course, but I wanted to offer it completely free to help 
+            fellow contractors get licensed. If this course helps you, I&apos;d really appreciate a small donation 
+            to help keep the project going and allow me to create more free resources.
+          </p>
+          <a
+            href="https://buymeacoffee.com/dreadpirateroberts"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 mt-3 px-4 py-2 bg-amber-500 text-slate-900 font-semibold rounded-lg hover:bg-amber-400 transition-colors text-sm"
+          >
+            <Coffee className="w-4 h-4" />
+            Buy Me a Coffee
+          </a>
+        </div>
         <div className="grid md:grid-cols-3 gap-4 mt-6">
           <div className="flex items-start gap-3">
             <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-1" />
