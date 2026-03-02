@@ -1,0 +1,5 @@
+# Ignore large video files - they'll be served from YouTube
+public/videos/*.mp4
+
+# Scripts not needed in production
+scripts/

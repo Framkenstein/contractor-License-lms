@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
+import { useUser } from '@clerk/nextjs';
 import { Progress } from '@/types';
 
 const STORAGE_KEY = 'contractor-lms-progress';
@@ -14,26 +15,51 @@ const defaultProgress: Progress = {
 };
 
 export function useProgress() {
+  const { user, isLoaded: isUserLoaded } = useUser();
   const [progress, setProgress] = useState<Progress>(defaultProgress);
   const [isLoaded, setIsLoaded] = useState(false);
 
+  // Get storage key based on user (if logged in, use their ID for personalized storage)
+  const getStorageKey = useCallback(() => {
+    if (user?.id) {
+      return `${STORAGE_KEY}-${user.id}`;
+    }
+    return STORAGE_KEY;
+  }, [user?.id]);
+
   useEffect(() => {
-    const stored = localStorage.getItem(STORAGE_KEY);
+    if (!isUserLoaded) return;
+    
+    const key = getStorageKey();
+    const stored = localStorage.getItem(key);
     if (stored) {
       try {
         setProgress(JSON.parse(stored));
       } catch {
         setProgress(defaultProgress);
       }
+    } else {
+      // If user just logged in, check if there's anonymous progress to migrate
+      const anonProgress = localStorage.getItem(STORAGE_KEY);
+      if (user?.id && anonProgress) {
+        try {
+          setProgress(JSON.parse(anonProgress));
+        } catch {
+          setProgress(defaultProgress);
+        }
+      } else {
+        setProgress(defaultProgress);
+      }
     }
     setIsLoaded(true);
-  }, []);
+  }, [getStorageKey, user?.id, isUserLoaded]);
 
   useEffect(() => {
     if (isLoaded) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+      const key = getStorageKey();
+      localStorage.setItem(key, JSON.stringify(progress));
     }
-  }, [progress, isLoaded]);
+  }, [progress, isLoaded, getStorageKey]);
 
   const markLessonComplete = useCallback((lessonId: string) => {
     setProgress((prev) => ({

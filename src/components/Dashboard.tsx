@@ -1,9 +1,10 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { BookOpen, Trophy, Clock, Target, Play, FileText } from 'lucide-react';
+import { BookOpen, Trophy, Clock, Play, Coffee, CheckCircle, Award, Users } from 'lucide-react';
 import { ProgressBar } from './ProgressBar';
 import { Module, Quiz, PracticeExam, Progress } from '@/types';
+import Image from 'next/image';
 
 interface DashboardProps {
   modules: Module[];
@@ -28,7 +29,6 @@ export function Dashboard({
 }: DashboardProps) {
   const totalLessons = modules.reduce((acc, m) => acc + m.lessons.length, 0);
   const completedLessons = progress.completedLessons.length;
-  const passedQuizzes = Object.values(progress.quizScores).filter((s) => s.passed).length;
   const passedExams = Object.values(progress.examScores).filter((s) => s.passed).length;
 
   const findNextLesson = () => {
@@ -46,17 +46,89 @@ export function Dashboard({
 
   return (
     <div className="p-8 max-w-6xl mx-auto">
+      {/* Hero Section with Branding */}
+      <motion.div
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="mb-8 text-center"
+      >
+        <div className="flex justify-center mb-6">
+          <Image
+            src="/logo.png"
+            alt="California Contractor License"
+            width={200}
+            height={200}
+            className="rounded-2xl"
+          />
+        </div>
+        <h1 className="text-4xl font-bold text-white mb-3">
+          California B-2 Contractor License Exam Prep
+        </h1>
+        <p className="text-xl text-slate-400 mb-6 max-w-2xl mx-auto">
+          Your complete guide to passing the California Residential Remodeling Contractor (B-2) License Exam
+        </p>
+        
+        {/* Support Link */}
+        <a
+          href="https://buymeacoffee.com/dreadpirateroberts"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 px-6 py-3 bg-amber-500 text-slate-900 font-semibold rounded-full hover:bg-amber-400 transition-colors mb-8"
+        >
+          <Coffee className="w-5 h-5" />
+          Support This Project
+        </a>
+      </motion.div>
+
+      {/* About Section */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.05 }}
+        className="bg-slate-800/50 rounded-2xl p-6 mb-8 border border-slate-700/50"
+      >
+        <h2 className="text-xl font-semibold text-white mb-4">About This Course</h2>
+        <p className="text-slate-300 mb-4">
+          Welcome to this free B-2 Residential Remodeling Contractor License exam preparation course. 
+          Designed to help aspiring contractors pass their California State License Board (CSLB) exams with confidence.
+        </p>
+        <div className="grid md:grid-cols-3 gap-4 mt-6">
+          <div className="flex items-start gap-3">
+            <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-1" />
+            <div>
+              <p className="text-white font-medium">63 Video Lessons</p>
+              <p className="text-sm text-slate-400">Covering all exam topics</p>
+            </div>
+          </div>
+          <div className="flex items-start gap-3">
+            <Award className="w-6 h-6 text-amber-500 flex-shrink-0 mt-1" />
+            <div>
+              <p className="text-white font-medium">310 Quiz Questions</p>
+              <p className="text-sm text-slate-400">Test your knowledge</p>
+            </div>
+          </div>
+          <div className="flex items-start gap-3">
+            <Users className="w-6 h-6 text-blue-500 flex-shrink-0 mt-1" />
+            <div>
+              <p className="text-white font-medium">100% Free</p>
+              <p className="text-sm text-slate-400">No hidden fees or subscriptions</p>
+            </div>
+          </div>
+        </div>
+      </motion.div>
+
       {/* Header */}
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.1 }}
         className="mb-8"
       >
-        <h1 className="text-3xl font-bold text-white mb-2">
-          Welcome to B-2 License Exam Prep
-        </h1>
+        <h2 className="text-2xl font-bold text-white mb-2">
+          Your Learning Dashboard
+        </h2>
         <p className="text-slate-400">
-          California Residential Remodeling Contractor Certification
+          Track your progress and continue where you left off
         </p>
       </motion.div>
 
@@ -70,21 +142,16 @@ export function Dashboard({
         <h2 className="text-lg font-semibold text-white mb-4">Your Progress</h2>
         <ProgressBar progress={overallProgress} label="Course Completion" />
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
+        <div className="grid grid-cols-3 gap-4 mt-6">
           <div className="bg-slate-700/30 rounded-xl p-4 text-center">
             <BookOpen className="w-8 h-8 text-amber-500 mx-auto mb-2" />
             <p className="text-2xl font-bold text-white">{completedLessons}/{totalLessons}</p>
             <p className="text-xs text-slate-400">Lessons Completed</p>
           </div>
           <div className="bg-slate-700/30 rounded-xl p-4 text-center">
-            <Target className="w-8 h-8 text-green-500 mx-auto mb-2" />
-            <p className="text-2xl font-bold text-white">{passedQuizzes}/{quizzes.length}</p>
-            <p className="text-xs text-slate-400">Quizzes Passed</p>
-          </div>
-          <div className="bg-slate-700/30 rounded-xl p-4 text-center">
             <Trophy className="w-8 h-8 text-blue-500 mx-auto mb-2" />
             <p className="text-2xl font-bold text-white">{passedExams}/{practiceExams.length}</p>
-            <p className="text-xs text-slate-400">Exams Passed</p>
+            <p className="text-xs text-slate-400">Practice Exams Passed</p>
           </div>
           <div className="bg-slate-700/30 rounded-xl p-4 text-center">
             <Clock className="w-8 h-8 text-purple-500 mx-auto mb-2" />
@@ -121,119 +188,76 @@ export function Dashboard({
         </motion.div>
       )}
 
-      {/* Quick Actions */}
-      <div className="grid md:grid-cols-2 gap-6">
-        {/* Practice Exams */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.3 }}
-          className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50"
-        >
-          <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
-            <Trophy className="w-5 h-5 text-amber-500" />
-            Practice Exams
-          </h2>
-          <div className="space-y-3">
-            <div>
-              <p className="text-sm text-slate-400 mb-2">Law & Business</p>
-              {practiceExams
-                .filter((e) => e.type === 'law-business')
-                .slice(0, 3)
-                .map((exam) => {
-                  const score = progress.examScores[exam.id];
-                  return (
-                    <button
-                      key={exam.id}
-                      onClick={() => onStartExam(exam.id)}
-                      className="w-full flex items-center justify-between p-3 bg-slate-700/30 rounded-lg mb-2 hover:bg-slate-700/50 transition-colors"
-                    >
-                      <span className="text-sm text-white">{exam.title}</span>
-                      {score && (
-                        <span
-                          className={`text-xs px-2 py-1 rounded ${
-                            score.passed
-                              ? 'bg-green-500/20 text-green-500'
-                              : 'bg-red-500/20 text-red-500'
-                          }`}
-                        >
-                          {Math.round((score.score / score.total) * 100)}%
-                        </span>
-                      )}
-                    </button>
-                  );
-                })}
-            </div>
-            <div>
-              <p className="text-sm text-slate-400 mb-2">B-2 Trade</p>
-              {practiceExams
-                .filter((e) => e.type === 'trade')
-                .slice(0, 3)
-                .map((exam) => {
-                  const score = progress.examScores[exam.id];
-                  return (
-                    <button
-                      key={exam.id}
-                      onClick={() => onStartExam(exam.id)}
-                      className="w-full flex items-center justify-between p-3 bg-slate-700/30 rounded-lg mb-2 hover:bg-slate-700/50 transition-colors"
-                    >
-                      <span className="text-sm text-white">{exam.title}</span>
-                      {score && (
-                        <span
-                          className={`text-xs px-2 py-1 rounded ${
-                            score.passed
-                              ? 'bg-green-500/20 text-green-500'
-                              : 'bg-red-500/20 text-red-500'
-                          }`}
-                        >
-                          {Math.round((score.score / score.total) * 100)}%
-                        </span>
-                      )}
-                    </button>
-                  );
-                })}
-            </div>
+      {/* Practice Exams */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.3 }}
+        className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50"
+      >
+        <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
+          <Trophy className="w-5 h-5 text-amber-500" />
+          Practice Exams
+        </h2>
+        <div className="grid md:grid-cols-2 gap-6">
+          <div>
+            <p className="text-sm text-slate-400 mb-2">Law & Business</p>
+            {practiceExams
+              .filter((e) => e.type === 'law-business')
+              .map((exam) => {
+                const score = progress.examScores[exam.id];
+                return (
+                  <button
+                    key={exam.id}
+                    onClick={() => onStartExam(exam.id)}
+                    className="w-full flex items-center justify-between p-3 bg-slate-700/30 rounded-lg mb-2 hover:bg-slate-700/50 transition-colors"
+                  >
+                    <span className="text-sm text-white">{exam.title}</span>
+                    {score && (
+                      <span
+                        className={`text-xs px-2 py-1 rounded ${
+                          score.passed
+                            ? 'bg-green-500/20 text-green-500'
+                            : 'bg-red-500/20 text-red-500'
+                        }`}
+                      >
+                        {Math.round((score.score / score.total) * 100)}%
+                      </span>
+                    )}
+                  </button>
+                );
+              })}
           </div>
-        </motion.div>
-
-        {/* Section Quizzes */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4 }}
-          className="bg-slate-800/50 rounded-2xl p-6 border border-slate-700/50"
-        >
-          <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
-            <FileText className="w-5 h-5 text-amber-500" />
-            Section Quizzes
-          </h2>
-          <div className="space-y-2">
-            {quizzes.map((quiz) => {
-              const score = progress.quizScores[quiz.id];
-              return (
-                <button
-                  key={quiz.id}
-                  onClick={() => onStartQuiz(quiz.id)}
-                  className="w-full flex items-center justify-between p-3 bg-slate-700/30 rounded-lg hover:bg-slate-700/50 transition-colors"
-                >
-                  <span className="text-sm text-white">{quiz.title}</span>
-                  {score && (
-                    <span
-                      className={`text-xs px-2 py-1 rounded ${
-                        score.passed
-                          ? 'bg-green-500/20 text-green-500'
-                          : 'bg-red-500/20 text-red-500'
-                      }`}
-                    >
-                      {Math.round((score.score / score.total) * 100)}%
-                    </span>
-                  )}
-                </button>
-              );
-            })}
+          <div>
+            <p className="text-sm text-slate-400 mb-2">B-2 Trade</p>
+            {practiceExams
+              .filter((e) => e.type === 'trade')
+              .map((exam) => {
+                const score = progress.examScores[exam.id];
+                return (
+                  <button
+                    key={exam.id}
+                    onClick={() => onStartExam(exam.id)}
+                    className="w-full flex items-center justify-between p-3 bg-slate-700/30 rounded-lg mb-2 hover:bg-slate-700/50 transition-colors"
+                  >
+                    <span className="text-sm text-white">{exam.title}</span>
+                    {score && (
+                      <span
+                        className={`text-xs px-2 py-1 rounded ${
+                          score.passed
+                            ? 'bg-green-500/20 text-green-500'
+                            : 'bg-red-500/20 text-red-500'
+                        }`}
+                      >
+                        {Math.round((score.score / score.total) * 100)}%
+                      </span>
+                    )}
+                  </button>
+                );
+              })}
           </div>
-        </motion.div>
-      </div>
+        </div>
+      </motion.div>
     </div>
   );
 }

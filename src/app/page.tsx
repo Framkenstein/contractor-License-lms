@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, Home, RotateCcw } from 'lucide-react';
 import { Sidebar } from '@/components/Sidebar';
+import { UserMenu } from '@/components/UserMenu';
 import { VideoPlayer } from '@/components/VideoPlayer';
 import { QuizEngine } from '@/components/QuizEngine';
 import { Dashboard } from '@/components/Dashboard';
@@ -164,6 +165,7 @@ export default function HomePage() {
               >
                 <RotateCcw className="w-5 h-5" />
               </button>
+              <UserMenu />
             </div>
           </div>
         </div>

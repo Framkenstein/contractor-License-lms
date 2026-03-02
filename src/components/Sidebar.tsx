@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronDown, ChevronRight, PlayCircle, CheckCircle, BookOpen, FileText, Trophy } from 'lucide-react';
+import { ChevronDown, ChevronRight, PlayCircle, CheckCircle, FileText, Trophy } from 'lucide-react';
 import { Module, Quiz, PracticeExam } from '@/types';
 
 interface SidebarProps {
@@ -31,8 +31,7 @@ export function Sidebar({
   activeItemId,
 }: SidebarProps) {
   const [expandedModules, setExpandedModules] = useState<number[]>([1]);
-  const [showQuizzes, setShowQuizzes] = useState(false);
-  const [showExams, setShowExams] = useState(false);
+    const [showExams, setShowExams] = useState(false);
 
   const toggleModule = (moduleId: number) => {
     setExpandedModules((prev) =>
@@ -116,49 +115,6 @@ export function Sidebar({
               </AnimatePresence>
             </div>
           ))}
-        </div>
-
-        {/* Section Quizzes */}
-        <div className="mb-4">
-          <button
-            onClick={() => setShowQuizzes(!showQuizzes)}
-            className="w-full flex items-center justify-between px-2 py-2 text-xs font-semibold text-slate-500 uppercase tracking-wider hover:bg-slate-800/30 rounded-lg"
-          >
-            <div className="flex items-center gap-2">
-              <BookOpen className="w-4 h-4" />
-              <span>Section Quizzes</span>
-            </div>
-            {showQuizzes ? <ChevronDown className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
-          </button>
-
-          <AnimatePresence>
-            {showQuizzes && (
-              <motion.div
-                initial={{ height: 0, opacity: 0 }}
-                animate={{ height: 'auto', opacity: 1 }}
-                exit={{ height: 0, opacity: 0 }}
-                className="overflow-hidden"
-              >
-                {quizzes.map((quiz) => {
-                  const isActive = activeView === 'quiz' && activeItemId === quiz.id;
-                  return (
-                    <button
-                      key={quiz.id}
-                      onClick={() => onSelectQuiz(quiz.id)}
-                      className={`w-full flex items-center gap-2 p-2 ml-2 rounded-lg text-left transition-colors ${
-                        isActive
-                          ? 'bg-amber-500/20 text-amber-500'
-                          : 'hover:bg-slate-800/50 text-slate-300'
-                      }`}
-                    >
-                      <FileText className="w-4 h-4 flex-shrink-0" />
-                      <span className="text-xs truncate">{quiz.title}</span>
-                    </button>
-                  );
-                })}
-              </motion.div>
-            )}
-          </AnimatePresence>
         </div>
 
         {/* Practice Exams */}
