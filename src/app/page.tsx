@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, Home, RotateCcw } from 'lucide-react';
+import { Menu, X, Home, RotateCcw, Coffee } from 'lucide-react';
 import { Sidebar } from '@/components/Sidebar';
 import { UserMenu } from '@/components/UserMenu';
 import { VideoPlayer } from '@/components/VideoPlayer';
@@ -158,6 +158,15 @@ export default function HomePage() {
               <div className="hidden md:block w-48">
                 <ProgressBar progress={getOverallProgress()} />
               </div>
+              <a
+                href="https://buymeacoffee.com/dreadpirateroberts"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hidden sm:flex items-center gap-2 px-3 py-1.5 bg-amber-500 text-slate-900 font-medium rounded-lg hover:bg-amber-400 transition-colors text-sm"
+              >
+                <Coffee className="w-4 h-4" />
+                <span className="hidden lg:inline">Support</span>
+              </a>
               <button
                 onClick={resetProgress}
                 className="p-2 text-slate-400 hover:text-red-500 transition-colors"
