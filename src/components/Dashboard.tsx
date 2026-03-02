@@ -96,9 +96,10 @@ export function Dashboard({
         {/* Donation Request */}
         <div className="bg-amber-500/10 border border-amber-500/30 rounded-xl p-4 mb-4">
           <p className="text-slate-300 text-sm leading-relaxed">
-            I spent a lot of time and money creating this course, but I wanted to offer it completely free to help 
-            fellow contractors get licensed. If this course helps you, I&apos;d really appreciate a small donation 
-            to help keep the project going and allow me to create more free resources.
+            This course represents many hours of development and significant personal expense. If you&apos;ve found 
+            this helpful and want to support the work, any contribution helps me continue developing this and future 
+            educational content. If demand exists, I hope to expand to other classifications as time and resources 
+            permit. Thank you!
           </p>
           <a
             href="https://buymeacoffee.com/dreadpirateroberts"
