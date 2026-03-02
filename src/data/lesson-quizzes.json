@@ -1,0 +1,5064 @@
+{
+  "m1-s1": [
+    {
+      "id": "q-1",
+      "question": "A B-2 contractor can legally take a project with drywall, painting, and flooring under one contract.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "How many unrelated trades must a B-2 contract include?",
+      "options": [
+        "1",
+        "2",
+        "3 or more"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Can a B-2 contractor remove a load-bearing wall?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Which of these requires a specialty license or subcontractor even on a B-2 project?",
+      "options": [
+        "Installing a faucet",
+        "Installing a fire protection system",
+        "Replacing a ceiling fan"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "What can happen if you take a single-trade job under a B-2 license without a specialty license?",
+      "options": [
+        "Nothing",
+        "CSLB disciplinary action",
+        "Automatic upgrade of your license"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m1-s2": [
+    {
+      "id": "q-1",
+      "question": "How many years of journey-level experience must you have to apply for a B-2 license?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Who must sign your Certification of Work Experience form?",
+      "options": [
+        "A friend or family member",
+        "Someone with firsthand knowledge of your work, such as a licensed contractor or supervisor",
+        "Any notary public"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "What happens if you submit an incomplete or unsigned license application?",
+      "options": [
+        "It is ignored but processed later",
+        "It may be returned or voided, delaying or forfeiting your application",
+        "It is processed without issue"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Which two exams are required to receive your B-2 license?",
+      "options": [
+        "Trade exam only",
+        "Law and Business exam only",
+        "Both Law and Business and B-2 trade exams"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "What must you submit within 90 days of passing your exams to activate your license?",
+      "options": [
+        "Only your exam results",
+        "License activation fee, contractor bond, and insurance documentation",
+        "Just your workers’ compensation insurance"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m1-s3": [
+    {
+      "id": "q-1",
+      "question": "Why do many qualified contractors fail the B-2 exam on the first try?",
+      "options": [
+        "The questions are intentionally misleading",
+        "They underestimate the exam and fail to prepare with a structured study plan",
+        "CSLB wants to limit the number of contractors"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "What is the benefit of taking a diagnostic practice test before you start studying?",
+      "options": [
+        "It allows you to bypass the real test",
+        "It helps identify your strengths and weaknesses so you can focus your study time effectively",
+        "It guarantees a passing score"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "How much consistent study time is typically recommended for most applicants?",
+      "options": [
+        "One weekend of cramming",
+        "Four to six weeks of steady preparation with 1–2 hours a day",
+        "At least a year of full-time studying"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Why are full-length timed practice exams important?",
+      "options": [
+        "They are optional and add no real value",
+        "They help you build stamina, manage time, and reduce anxiety for the real test",
+        "They count toward your final score with CSLB"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Which approach leads to better retention of information?",
+      "options": [
+        "Long cram sessions every few days",
+        "Short, consistent daily study sessions using multiple tools",
+        "Only reading the CSLB manual once"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m1-s4": [
+    {
+      "id": "q-1",
+      "question": "What does an acknowledgment letter from CSLB mean?",
+      "options": [
+        "Your license has been approved",
+        "CSLB has received and entered your application for processing",
+        "Your exams are scheduled automatically"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "How long does it usually take to receive an acknowledgment letter after applying?",
+      "options": [
+        "A few hours",
+        "About two to three weeks, though it can vary",
+        "Over a year"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "What is one of the most common instructions in an acknowledgment letter?",
+      "options": [
+        "Skip fingerprinting until after the exam",
+        "Complete Live Scan fingerprinting promptly to move forward",
+        "Begin working as a contractor immediately"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "What should you do if you see incorrect information in your acknowledgment letter?",
+      "options": [
+        "Ignore it",
+        "Contact CSLB immediately to correct errors",
+        "Wait until after you pass the exam to fix it"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Why is it important to read every CSLB letter carefully?",
+      "options": [
+        "They contain hidden test answers",
+        "They may contain deadlines or requests that, if missed, delay or void your application",
+        "They are optional and mostly informational"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m1-s5": [
+    {
+      "id": "q-1",
+      "question": "What is the purpose of the Notice to Appear for Examination?",
+      "options": [
+        "To confirm you’ve passed the exams",
+        "To inform you of your scheduled exam time, date, and location",
+        "To request additional documentation"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "What score is required to pass each CSLB exam?",
+      "options": [
+        "60% or higher",
+        "70% or higher",
+        "85% or higher"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Which of these should you bring to the exam?",
+      "options": [
+        "Your cell phone and calculator",
+        "A valid government-issued photo ID matching your application name",
+        "Study notes for reference during the test"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "What should you do if you’re unsure of an answer during the exam?",
+      "options": [
+        "Leave it blank",
+        "Flag it, make your best guess, and return to it later",
+        "Spend as long as needed until you’re certain"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "What can happen if you arrive late for your scheduled exam time?",
+      "options": [
+        "Nothing; you can still take it",
+        "You may be denied entry and forced to reschedule, delaying your license",
+        "The exam will be postponed automatically"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m1-s6": [
+    {
+      "id": "q-1",
+      "question": "What is the purpose of the $15,000 contractor’s bond?",
+      "options": [
+        "To protect the contractor from lawsuits",
+        "To protect clients and the public from damages or violations caused by the contractor",
+        "To replace workers’ compensation insurance"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "What must you do if you plan to have employees?",
+      "options": [
+        "Nothing until your license is active",
+        "Obtain workers’ compensation insurance from a licensed carrier before activation",
+        "Only notify CSLB if an injury occurs"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "What happens if you do not submit your final documents and fees within 90 days of passing the exam?",
+      "options": [
+        "CSLB gives unlimited time to respond",
+        "Your application may expire, and you may have to start over",
+        "Your license is activated automatically"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Which document must be displayed in your office or workspace once you are licensed?",
+      "options": [
+        "Workers’ compensation exemption form",
+        "The CSLB wall certificate of licensure",
+        "Proof of liability insurance"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "What can cause an active license to be suspended automatically?",
+      "options": [
+        "Failing to answer calls from CSLB",
+        "Letting your bond or required insurance lapse",
+        "Not taking on enough projects"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m3-s1": [
+    {
+      "id": "q-1",
+      "question": "According to CRC, what is the minimum allowable width of a residential hallway?",
+      "options": [
+        "44 inches",
+        "40 inches",
+        "36 inches",
+        "32 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Which cost estimating document details labor, material, and equipment costs for each task?",
+      "options": [
+        "Lump sum bid sheet",
+        "Unit price estimate sheet",
+        "Change order",
+        "Letter of intent"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m3-s2": [
+    {
+      "id": "q-1",
+      "question": "When preparing a cost estimate for a remodel, which of the following is the most accurate method to account for unknown conditions?",
+      "options": [
+        "Use a lump-sum guess based on similar jobs",
+        "Use square-foot pricing only",
+        "Add a contingency percentage to a detailed unit cost estimate",
+        "Ignore unknowns to keep the bid competitive"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "If plans and specifications do not specify a particular code requirement, what governs the construction?",
+      "options": [
+        "Verbal instructions from contractor",
+        "Most recent California Residential Code provisions",
+        "Manufacturer brochures",
+        "Past project practices"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m3-s3": [
+    {
+      "id": "q-1",
+      "question": "Which document prevails if there is a conflict between project specifications and shop drawings?",
+      "options": [
+        "Shop drawings",
+        "Verbal instructions from foreman",
+        "Project specifications",
+        "Manufacturer’s installation manual"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "The primary purpose of a pre-construction site walkthrough with the homeowner is to:",
+      "options": [
+        "Finalize material selections and identify potential issues",
+        "Begin demolition",
+        "Determine which subcontractor will be hired",
+        "Sign change orders in advance"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m3-s4": [
+    {
+      "id": "q-1",
+      "question": "A contractor needs to provide an estimate for removing non-load-bearing walls and installing new framing. Which step should they take first?",
+      "options": [
+        "Request a demolition permit only",
+        "Verify presence of utilities and consult plans",
+        "Order materials before inspection",
+        "Apply primer to new wall surfaces"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "A contractor is estimating tile work for a kitchen backsplash of 40 sq ft. Tile cost is $4/sq ft, labor $5/sq ft, with a 10% waste factor. What is the total estimated cost (no markup)?",
+      "options": [
+        "$360",
+        "$396",
+        "$400",
+        "$440"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m3-s5": [
+    {
+      "id": "q-1",
+      "question": "According to CRC, what is the minimum ceiling height required for habitable rooms in a residential dwelling?",
+      "options": [
+        "6 feet 8 inches",
+        "7 feet",
+        "7 feet 6 inches",
+        "8 feet"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m3-s6": [
+    {
+      "id": "q-1",
+      "question": "When estimating project costs, which of the following is NOT typically included in direct costs?",
+      "options": [
+        "Labor wages",
+        "Materials",
+        "Equipment rental",
+        "Overhead expenses"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    }
+  ],
+  "m3-s7": [
+    {
+      "id": "q-1",
+      "question": "A contractor rents scaffolding for $80/day for 5 days and applies a 15% markup. What is the total charge?",
+      "options": [
+        "$460.00",
+        "$460.00 + $69.00 = $529.00",
+        "$475.00",
+        "$545.00"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m7-s1": [
+    {
+      "id": "q-1",
+      "question": "What is the purpose of a field inspection before finalizing a remodeling estimate?",
+      "options": [
+        "To check if the client’s budget is sufficient",
+        "To identify potential code compliance issues and hidden conditions",
+        "To determine marketing opportunities",
+        "To start demolition without a permit"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m7-s2": [
+    {
+      "id": "q-1",
+      "question": "In project planning, the critical path method (CPM) is primarily used to:",
+      "options": [
+        "Estimate total material quantities",
+        "Determine shortest possible project duration",
+        "Compare labor costs",
+        "Schedule subcontractor payments"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m7-s5": [
+    {
+      "id": "q-1",
+      "question": "According to CRC, what is the minimum required landing depth on the exterior side of a residential entry door?",
+      "options": [
+        "30 inches",
+        "32 inches",
+        "36 inches",
+        "40 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "What type of account should a contractor use to deposit project funds and pay expenses?",
+      "options": [
+        "Personal checking account",
+        "Separate business checking account",
+        "Client’s personal account",
+        "Savings account only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "If a contractor fails to separate personal and business funds, what is the potential consequence?",
+      "options": [
+        "Faster tax refunds",
+        "Loss of liability protection and accounting errors",
+        "Easier credit approval",
+        "Reduced licensing fees"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A lien release is typically issued to:",
+      "options": [
+        "The IRS",
+        "The property owner to show a subcontractor or supplier has been paid",
+        "The city inspector",
+        "CSLB directly"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "A unit price estimate is most appropriate for:",
+      "options": [
+        "Unknown quantities of work items",
+        "Fixed lump-sum contracts only",
+        "Time-and-materials projects exclusively",
+        "Projects without change orders"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "When budgeting for a project, contingency funds are typically set aside to cover:",
+      "options": [
+        "Profit",
+        "Unforeseen costs or changes in work scope",
+        "Advertising expenses",
+        "Warranty costs only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m7-s7": [
+    {
+      "id": "q-1",
+      "question": "Which of the following is true regarding load-bearing vs non-load-bearing walls during planning?",
+      "options": [
+        "Non-load-bearing walls may be removed without inspection.",
+        "Load-bearing walls can be removed if replaced with like materials.",
+        "Structural engineer or plans review is required before removing load-bearing walls",
+        "Both can be removed without a permit if under 10 feet."
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    }
+  ],
+  "m5-s1": [
+    {
+      "id": "q-1",
+      "question": "Before removing a non-load-bearing wall, what is the first safety step a contractor should take?",
+      "options": [
+        "Install dust barriers",
+        "Shut off and verify electrical and plumbing services",
+        "Remove drywall only",
+        "Cover all furniture"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "According to standard job site practices, how should drywall sheets be stored?",
+      "options": [
+        "Vertically leaning against framing",
+        "Flat on level supports, protected from moisture",
+        "Outside under a tarp",
+        "Stacked on uneven ground"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When planning temporary storage for removed cabinets and doors, what is the primary concern?",
+      "options": [
+        "Keeping items stacked neatly for appearance",
+        "Avoiding trip hazards and maintaining clear egress routes",
+        "Maximizing floor space use",
+        "Leaving materials near exits for easy removal"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m5-s2": [
+    {
+      "id": "q-1",
+      "question": "What must be done before demolition in a structure built before 1978?",
+      "options": [
+        "Confirm asbestos presence only",
+        "Test for lead-based paint and follow EPA RRP regulations",
+        "Notify local fire department",
+        "Obtain a roofing permit"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "When removing kitchen cabinets, which step should be performed first?",
+      "options": [
+        "Remove cabinet doors and hardware",
+        "Pull cabinets from wall in one piece",
+        "Remove countertop first without disconnecting sink",
+        "Cut wall studs to loosen cabinetry"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "According to Cal/OSHA, how should demolition debris be handled on multi-story buildings to maintain safety?",
+      "options": [
+        "Dropped through floor openings",
+        "Carried down stairs only",
+        "Removed via enclosed debris chute or controlled mechanical means",
+        "Tossed out windows with a lookout person below"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    }
+  ],
+  "m5-s3": [
+    {
+      "id": "q-1",
+      "question": "When delivering lumber to a job site, what is the best practice to prevent warping?",
+      "options": [
+        "Stack directly on bare ground",
+        "Stack flat, elevated off ground, and cover",
+        "Leave exposed for acclimation",
+        "Lean upright against a wall"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "According to CRC, what is required to protect floors during heavy demolition?",
+      "options": [
+        "Carpet padding",
+        "Plywood or hardboard sheets",
+        "Plastic film only",
+        "Nothing unless flooring is finished hardwood"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Before starting a bathroom remodel involving electrical fixture removal, what should be done?",
+      "options": [
+        "Verify branch circuit is de-energized and locked out/tagged out",
+        "Remove light fixture first, then turn breaker off",
+        "Disconnect only neutral wire",
+        "Cover switches with tape instead of de-energizing"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m8-s2": [
+    {
+      "id": "q-1",
+      "question": "According to Cal/OSHA, when is a hazardous materials survey required before demolition?",
+      "options": [
+        "For all commercial projects only",
+        "When suspect asbestos-containing material or lead paint may be disturbed",
+        "Only for multifamily buildings",
+        "Never required unless ordered by inspector"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Where should roofing materials be stored prior to installation?",
+      "options": [
+        "On roof deck before structural inspection",
+        "On stable, level ground with weather protection",
+        "Mixed in with lumber piles",
+        "In open driveway without cover"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Cal/OSHA requires contractors to report serious injuries or fatalities to the nearest Cal/OSHA district office within:",
+      "options": [
+        "2 hours",
+        "8 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m8-s3": [
+    {
+      "id": "q-1",
+      "question": "What should be done with plumbing fixtures prior to removal during remodeling?",
+      "options": [
+        "Disconnect water supply and drain lines",
+        "Remove without disconnecting to save time",
+        "Cut pipes and leave stubs unsealed",
+        "Remove only after new fixtures arrive"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Before cutting into a wall that contains plumbing or wiring, a contractor should:",
+      "options": [
+        "Assume no services exist",
+        "Use a stud finder or scanner to locate hidden utilities",
+        "Cut a small test hole blindly",
+        "Disconnect all water only, not electrical"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Employers must provide Material Safety Data Sheets (MSDS/SDS):",
+      "options": [
+        "Upon employee request for hazardous substances used on the job",
+        "Only if over 10 gallons of chemicals are stored",
+        "Optional unless Cal/OSHA inspects",
+        "Only for public projects"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m5-s4": [
+    {
+      "id": "q-1",
+      "question": "According to CPC, the minimum slope for a horizontal drainpipe less than 3 inches in diameter is:",
+      "options": [
+        "1/8 inch per foot",
+        "1/4 inch per foot",
+        "3/8 inch per foot",
+        "1/2 inch per foot"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "When framing an interior non-load-bearing wall, typical stud spacing is:",
+      "options": [
+        "12 inches on center",
+        "16 inches on center",
+        "20 inches on center",
+        "24 inches on center only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "According to CEC, ground-fault circuit interrupters (GFCIs) are required in:",
+      "options": [
+        "Bathrooms, kitchens, laundry, garages, outdoor receptacles",
+        "Bedrooms only",
+        "Hallways",
+        "Attics"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "When replacing copper pipes with PEX, the transition fitting must be:",
+      "options": [
+        "Standard compression fitting",
+        "Approved brass or plastic transition adapter",
+        "Soldered brass",
+        "Direct slip coupling"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m5-s5": [
+    {
+      "id": "q-1",
+      "question": "In residential plumbing, the minimum trap arm length for a lavatory is:",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Minimum stair tread depth allowed by CRC is:",
+      "options": [
+        "9 inches",
+        "9 1/4 inches",
+        "10 inches",
+        "11 inches"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Minimum clearance between combustion air opening and ground for gas appliances:",
+      "options": [
+        "3 inches",
+        "6 inches",
+        "12 inches",
+        "18 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "When installing stair handrails, the required height above tread nosing is:",
+      "options": [
+        "30-34 inches",
+        "34-38 inches",
+        "36-40 inches",
+        "40-42 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m5-s6": [
+    {
+      "id": "q-1",
+      "question": "Electrical receptacles in a bathroom must be:",
+      "options": [
+        "Connected to a 20-amp dedicated circuit and GFCI-protected",
+        "On a shared lighting circuit",
+        "Aluminum wired only",
+        "10 feet from water source"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Maximum stair riser height allowed by CRC is:",
+      "options": [
+        "7 inches",
+        "7 3/4 inches",
+        "8 inches",
+        "8 1/4 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When replacing flooring, expansion gaps should typically be left at:",
+      "options": [
+        "1/16 inch",
+        "1/8 inch",
+        "1/4 inch",
+        "No gap is necessary"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "When adding a new lighting circuit, conductors must be secured within:",
+      "options": [
+        "6 inches of each box",
+        "8 inches of each box",
+        "12 inches of each box",
+        "24 inches of each box"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m5-s7": [
+    {
+      "id": "q-1",
+      "question": "Minimum distance required between a gas water heater and combustible materials (without a shield):",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "3 inches",
+        "6 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "When installing new outlets, the height above finished floor should generally be:",
+      "options": [
+        "8 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Joist spacing for typical 3/4\" subfloor with tile finish should not exceed:",
+      "options": [
+        "12 inches on center",
+        "16 inches on center",
+        "20 inches on center",
+        "24 inches on center"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "The minimum vent pipe diameter for a single-bathroom group is typically:",
+      "options": [
+        "1 inch",
+        "1 1/2 inches",
+        "2 inches",
+        "3 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    }
+  ],
+  "m5-s8": [
+    {
+      "id": "q-1",
+      "question": "According to CEC, kitchen countertop outlets must be placed so that no point on the counter is more than:",
+      "options": [
+        "12 inches from an outlet",
+        "24 inches from an outlet",
+        "24 inches from an outlet horizontally",
+        "48 inches from an outlet"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "A shower drain must be sloped a minimum of:",
+      "options": [
+        "1/8 inch per foot",
+        "1/4 inch per foot",
+        "3/8 inch per foot",
+        "1/2 inch per foot"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When cutting or notching studs, the maximum allowable notch depth in non-load-bearing walls is:",
+      "options": [
+        "25% of stud width",
+        "30% of stud width",
+        "40% of stud width",
+        "50% of stud width"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m5-s9": [
+    {
+      "id": "q-1",
+      "question": "In forced-air systems, flexible duct runs should be supported at intervals not exceeding:",
+      "options": [
+        "2 feet",
+        "4 feet",
+        "6 feet",
+        "8 feet"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "What type of pipe is not allowed for water supply inside residential walls?",
+      "options": [
+        "Copper",
+        "PEX",
+        "Galvanized steel",
+        "PVC (not rated for hot water)"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Maximum height difference between adjacent flooring surfaces to avoid tripping hazard per CRC:",
+      "options": [
+        "1/4 inch",
+        "3/8 inch",
+        "1/2 inch",
+        "3/4 inch"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m5-s10": [
+    {
+      "id": "q-1",
+      "question": "When replacing drywall, fastener spacing for screws on wall framing is typically:",
+      "options": [
+        "6 inches on edges, 12 inches in field",
+        "8 inches on edges, 16 inches in field",
+        "10 inches everywhere",
+        "24 inches anywhere"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Electrical boxes must remain flush to drywall surface within a tolerance of:",
+      "options": [
+        "1/8 inch",
+        "1/4 inch",
+        "3/8 inch",
+        "1/2 inch"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Before installing new mechanical equipment in an attic, the code requires:",
+      "options": [
+        "Access opening large enough to remove unit",
+        "Only a basic ladder",
+        "No access if under 5 tons",
+        "Equipment can be permanently sealed"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m5-s11": [
+    {
+      "id": "q-1",
+      "question": "The recommended minimum grout joint width for 12\"x12\" ceramic tile installations per TCNA standards is:",
+      "options": [
+        "1/16 inch",
+        "1/8 inch",
+        "1/4 inch",
+        "3/8 inch"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "What is the recommended clearance between upper kitchen cabinets and countertop?",
+      "options": [
+        "12 inches",
+        "18 inches",
+        "24 inches",
+        "30 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When installing interior paint in a high-moisture area like a bathroom, which finish is most suitable?",
+      "options": [
+        "Flat latex",
+        "Eggshell",
+        "Satin or semi-gloss",
+        "Matte enamel"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "The recommended nail length for fastening 3/4-inch hardwood trim into wood framing is:",
+      "options": [
+        "1 inch",
+        "1 1/4 inches",
+        "1 1/2 inches",
+        "2 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "The best way to ensure paint adhesion on previously painted surfaces is to:",
+      "options": [
+        "Apply paint directly over old surface",
+        "Clean and lightly sand before priming",
+        "Apply extra thick coat",
+        "Use construction adhesive under paint"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "When cutting stone countertops, the installer should:",
+      "options": [
+        "Dry cut indoors",
+        "Wet cut outdoors or with dust collection to control silica dust",
+        "Use any method available",
+        "Avoid PPE if using water cutting"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m5-s12": [
+    {
+      "id": "q-1",
+      "question": "The standard height for installing base kitchen cabinets (without countertop) is:",
+      "options": [
+        "30 inches",
+        "32 inches",
+        "34 1/2 inches",
+        "36 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "When installing a stone or tile countertop, seams should be:",
+      "options": [
+        "Randomly placed",
+        "Placed over unsupported spans",
+        "Placed over supported cabinets and aligned where possible",
+        "Avoided at all costs"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "What type of adhesive is recommended for ceramic tile backsplashes on drywall?",
+      "options": [
+        "Latex-modified thinset mortar",
+        "Construction adhesive",
+        "Wood glue",
+        "Plaster compound"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "According to CRC, mantels above fireplaces must be installed a minimum of how far above the firebox opening?",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "When installing a floating laminate floor, an expansion gap of at least how much should be left at walls and fixed objects?",
+      "options": [
+        "1/16 inch",
+        "1/8 inch",
+        "1/4 inch",
+        "None is necessary"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "Minimum clearance required between top of kitchen wall cabinets and ceiling (standard ceiling height) is:",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "No clearance required"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m5-s13": [
+    {
+      "id": "q-1",
+      "question": "The minimum backsplash height required behind a kitchen countertop adjacent to a sink is:",
+      "options": [
+        "2 inches",
+        "4 inches",
+        "6 inches",
+        "None is required by code"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Best practice for finishing wood trim before installation is to:",
+      "options": [
+        "Pre-finish to seal all sides, including cut ends",
+        "Finish only exposed faces after installation",
+        "Install unsealed trim to save time",
+        "Apply paint only if staining"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "The minimum overlap for fiber-cement siding (lap siding) is typically:",
+      "options": [
+        "1 inch",
+        "1 1/4 inches",
+        "1 1/2 inches",
+        "2 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "When installing wall coverings, seams should be:",
+      "options": [
+        "Placed randomly to avoid patterns",
+        "Matched carefully and smoothed to avoid bubbles",
+        "Overlapped by at least 1 inch",
+        "Left unsealed for later trimming"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "The proper substrate for tile installation in wet areas such as showers is:",
+      "options": [
+        "Greenboard drywall only",
+        "Cement backer board or approved waterproof substrate",
+        "Plain gypsum board",
+        "OSB sheathing without barrier"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "Which type of primer should be used before painting bare wood trim?",
+      "options": [
+        "Oil- or shellac-based primer",
+        "Water only",
+        "Drywall primer",
+        "Latex finish paint"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m5-s14": [
+    {
+      "id": "q-1",
+      "question": "According to CRC, what is the minimum allowable slope for installing asphalt shingles (with required underlayment)?",
+      "options": [
+        "1:12",
+        "2:12",
+        "3:12",
+        "4:12"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "The minimum net clear opening area for an emergency escape window in a sleeping room is:",
+      "options": [
+        "4.0 sq ft",
+        "5.0 sq ft",
+        "5.7 sq ft",
+        "6.0 sq ft"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Flashing around roof penetrations must be installed:",
+      "options": [
+        "Only on the uphill side",
+        "Under underlayment",
+        "Over underlayment and integrated with roofing",
+        "Only if using shingles"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Minimum required step flashing overlap when installing shingles along a wall is:",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "3 inches",
+        "4 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Minimum clearance required between exterior siding and finished grade is:",
+      "options": [
+        "2 inches",
+        "4 inches",
+        "6 inches",
+        "8 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "When replacing a roof, which of the following is required before installing new shingles?",
+      "options": [
+        "Apply new shingles over old shingles without inspection",
+        "Remove all damaged or deteriorated sheathing and replace as needed",
+        "Skip underlayment to save cost",
+        "Use any fastener type available"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "What type of nails is recommended for fastening asphalt shingles?",
+      "options": [
+        "Smooth shank aluminum nails",
+        "Hot-dipped galvanized or stainless steel roofing nails",
+        "Drywall screws",
+        "Staples"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "Exterior windows and doors installed in new openings must be:",
+      "options": [
+        "Weather-resistant, flashed, and sealed per manufacturer’s instructions",
+        "Set flush with siding without flashing",
+        "Supported by interior trim only",
+        "Installed with caulking only"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "The maximum height above floor for an emergency escape window sill is:",
+      "options": [
+        "36 inches",
+        "44 inches",
+        "48 inches",
+        "52 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "To ensure proper drainage, roof gutters should have a minimum slope of:",
+      "options": [
+        "1/16 inch per foot",
+        "1/8 inch per foot",
+        "1/4 inch per foot",
+        "Level is acceptable"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "When remodeling exterior walls, what is required for fire blocking around concealed spaces?",
+      "options": [
+        "It is not required for remodeling",
+        "Install blocking at each floor level and between studs at soffits or concealed spaces",
+        "Use insulation as a substitute",
+        "Fire blocking is only required in new construction"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "When replacing exterior wall sheathing, what is the minimum nail penetration into studs required by CRC?",
+      "options": [
+        "1 inch",
+        "1 1/2 inches",
+        "2 inches",
+        "3/4 inch"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "When installing weather-resistive barriers (WRB), overlapping horizontal seams should be at least:",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "4 inches",
+        "6 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    }
+  ],
+  "m4-s2": [
+    {
+      "id": "q-1",
+      "question": "Who is responsible for providing a safe working environment on a construction site?",
+      "options": [
+        "The building inspector",
+        "The project owner",
+        "The contractor/employer",
+        "Each worker individually only"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "A contractor must provide first-aid supplies:",
+      "options": [
+        "Only if the job site is over 5 miles from a hospital",
+        "Readily available on every job site",
+        "Only on jobs lasting more than 30 days",
+        "Only for projects with more than 10 workers"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m4-s3": [
+    {
+      "id": "q-1",
+      "question": "Contractors with employees must have a written Injury and Illness Prevention Program (IIPP):",
+      "options": [
+        "Only for public works projects",
+        "For all job sites with employees",
+        "Only if there are more than 10 employees",
+        "Only when requested by CSLB"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Cal/OSHA requires portable fire extinguishers to be:",
+      "options": [
+        "Available within 50 feet of any flammable material",
+        "Only in company vehicles",
+        "Not necessary for remodel projects",
+        "Kept locked to prevent unauthorized use"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m4-s4": [
+    {
+      "id": "q-1",
+      "question": "Employers must provide employees with training and instruction on safety:",
+      "options": [
+        "Once per year only",
+        "When they are first hired and when new hazards are introduced",
+        "Only after an accident occurs",
+        "Optional for experienced workers"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Employers must provide and ensure the use of PPE such as hard hats, safety glasses, and gloves:",
+      "options": [
+        "Only when employees request it",
+        "At no cost to employees when hazards require it",
+        "Only on public works projects",
+        "Optional if the employee owns their own PPE"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m8-s1": [
+    {
+      "id": "q-1",
+      "question": "On multi-employer job sites, who is ultimately responsible for overall site safety compliance?",
+      "options": [
+        "The city inspector",
+        "The prime or general contractor",
+        "Each subcontractor individually only",
+        "CSLB representatives"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m8-s4": [
+    {
+      "id": "q-1",
+      "question": "When using scaffolding above 7 1/2 feet, Cal/OSHA requires:",
+      "options": [
+        "Toe boards, midrails, and guardrails",
+        "A warning sign only",
+        "Fall protection harness only",
+        "No protection unless scaffolding exceeds 20 feet"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "A contractor bidding on a public works project must list subcontractors who will perform work:",
+      "options": [
+        "Valued over $10,000 or more than 0.5% of the total bid",
+        "Only if the owner requests it",
+        "Regardless of subcontract value",
+        "Only for material suppliers"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A stop payment notice on a public works project is used to:",
+      "options": [
+        "Stop the contractor from working",
+        "Direct the public agency to withhold funds to ensure payment to subcontractors and suppliers",
+        "Terminate the prime contract",
+        "Suspend prevailing wage obligations"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A contractor who is debarred from public works may not:",
+      "options": [
+        "Hire new subcontractors",
+        "Bid or work on public projects for a specified period",
+        "Hold a contractor’s license",
+        "Obtain insurance coverage"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m2-s1": [
+    {
+      "id": "q-1",
+      "question": "The Contractors State License Board (CSLB) issues licenses to:",
+      "options": [
+        "Corporations only",
+        "Individuals, partnerships, corporations, LLCs, and joint ventures",
+        "Sole proprietors only",
+        "Unions and labor organizations"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "If a licensee operates under more than one business name:",
+      "options": [
+        "Each name must be separately licensed",
+        "Only one license is needed",
+        "DBA names do not require separate licenses",
+        "CSLB must approve, but no separate license is required"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "The CSLB’s Registrar of Contractors has the authority to:",
+      "options": [
+        "Prosecute contractors in civil court",
+        "Suspend or revoke licenses after due process",
+        "Set contractor wage rates",
+        "Enforce federal OSHA rules"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m2-s2": [
+    {
+      "id": "q-1",
+      "question": "A qualifying individual for a contractor’s license must have at least:",
+      "options": [
+        "2 years of journeyman-level experience",
+        "4 years of journey-level experience within the past 10 years",
+        "A college degree only",
+        "8 years of management experience"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "When is a contractor allowed to advertise for construction work without a license number displayed?",
+      "options": [
+        "Never, unless the work is under $1000 and clearly states they are unlicensed",
+        "If the job is under $1,000",
+        "If the job is for friends or family",
+        "If using only subcontractors"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A limited liability company (LLC) applying for a license must also:",
+      "options": [
+        "Provide a $100,000 LLC employee bond",
+        "Provide a $50,000 bond like other entities",
+        "Have 10 members minimum",
+        "Maintain a C-2 license by default"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m2-s3": [
+    {
+      "id": "q-1",
+      "question": "Which type of license is required for a joint venture of two licensed contractors?",
+      "options": [
+        "Separate licenses for each contractor only",
+        "A new joint venture license issued by CSLB",
+        "No additional license is required",
+        "A temporary permit"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Who is responsible for supervising work performed under a contractor’s license?",
+      "options": [
+        "Any employee of the company",
+        "The qualifying individual listed on the license",
+        "The client’s architect or designer",
+        "City building inspector"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Which of the following is NOT a valid business entity for holding a contractor’s license in California?",
+      "options": [
+        "Sole proprietorship",
+        "Corporation",
+        "Limited partnership",
+        "Nonprofit charity"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    }
+  ],
+  "m2-s4": [
+    {
+      "id": "q-1",
+      "question": "Which entity governs the laws that establish and regulate contractor licensing in California?",
+      "options": [
+        "Department of Consumer Affairs",
+        "Secretary of State",
+        "Department of Industrial Relations",
+        "Department of Real Estate"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "The CSLB may issue a Cautionary Letter of Admonishment for:",
+      "options": [
+        "Serious fraud violations",
+        "Minor infractions that do not cause financial harm",
+        "Any violation requiring suspension",
+        "Failure to pay taxes"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m2-s5": [
+    {
+      "id": "q-1",
+      "question": "A contractor’s license number must appear on:",
+      "options": [
+        "Business cards only",
+        "All contracts, bids, and advertising",
+        "Tax returns only",
+        "Internal invoices"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "If a partnership holding a contractor’s license dissolves, what happens to the license?",
+      "options": [
+        "It remains valid indefinitely",
+        "It automatically becomes inactive or expires",
+        "It transfers to any partner who continues",
+        "It converts to a sole proprietor license"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m4-s1": [
+    {
+      "id": "q-1",
+      "question": "A corporation applying for a contractor’s license must also:",
+      "options": [
+        "Have a qualifying individual licensed in another state",
+        "Register with the California Secretary of State",
+        "Provide a general liability policy only",
+        "File Articles of Incorporation with CSLB directly"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "To reinstate an expired contractor’s license within 5 years, the licensee must:",
+      "options": [
+        "Retake the exam",
+        "Pay all applicable renewal and delinquency fees",
+        "Apply for a new license entirely",
+        "Provide new qualifying experience"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Advertising for construction services in California must include:",
+      "options": [
+        "The contractor’s name only",
+        "The contractor’s business license and license number",
+        "The contractor’s tax ID number",
+        "A signed statement from the client"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "If a contractor’s license is suspended for failure to maintain a bond, the contractor must:",
+      "options": [
+        "Continue working but delay advertising",
+        "Stop all work requiring a license until bond is reinstated",
+        "Work under a friend’s license",
+        "Continue residential work only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "What type of license is required for a contractor who wants to engage in residential remodeling that combines multiple trades?",
+      "options": [
+        "Class A General Engineering Contractor",
+        "Class B-2 Residential Remodeling Contractor",
+        "Class C Specialty Contractor",
+        "Class D General Labor Contractor"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "If a qualifying individual leaves the licensed entity, CSLB must be notified within:",
+      "options": [
+        "30 days",
+        "90 days",
+        "6 months",
+        "1 year"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m4-s6": [
+    {
+      "id": "q-1",
+      "question": "The primary purpose of a Schedule of Values in a construction project is to:",
+      "options": [
+        "Estimate total project duration",
+        "Break down the contract price for progress payments",
+        "Determine the number of workers required",
+        "Replace a signed contract"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "According to California law, a contractor may request a down payment of:",
+      "options": [
+        "Up to 50% of the contract price",
+        "No more than 10% or $1,000, whichever is less",
+        "Unlimited, if agreed by client",
+        "None is allowed by law"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "The purpose of a profit and loss statement (P&L) is to:",
+      "options": [
+        "Show project timelines",
+        "Show financial performance over a period of time",
+        "Show current bank balance",
+        "Replace invoices"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "According to CSLB rules, a contractor must keep financial records for at least:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "California requires contractors with employees to maintain payroll records for at least:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m7-s6": [
+    {
+      "id": "q-1",
+      "question": "Retention is typically withheld from progress payments to:",
+      "options": [
+        "Increase contractor profit",
+        "Ensure contractor completes the project satisfactorily",
+        "Pay subcontractors faster",
+        "Avoid paying taxes"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Which of the following is considered an overhead cost?",
+      "options": [
+        "Jobsite materials",
+        "Direct labor wages",
+        "Office rent and utilities",
+        "Subcontractor payments"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Which of the following is a fixed cost for a contractor?",
+      "options": [
+        "Workers’ compensation insurance premiums",
+        "Materials for each job",
+        "Temporary labor",
+        "Equipment rental per project"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Which of the following best defines accounts receivable?",
+      "options": [
+        "Money owed to suppliers",
+        "Money owed to the contractor by clients",
+        "Money borrowed from the bank",
+        "Retention held on a job"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Which of the following must be included in a contractor’s bid under California law?",
+      "options": [
+        "Contractor license number",
+        "Personal references",
+        "Last 3 years of tax returns",
+        "Bank account information"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m4-s7": [
+    {
+      "id": "q-1",
+      "question": "In California, every employer must provide employees with:",
+      "options": [
+        "A copy of their subcontractor license",
+        "A written itemized wage statement each pay period",
+        "A letter of recommendation",
+        "A yearly safety bonus"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Employers must report newly hired or rehired employees to the New Employee Registry within:",
+      "options": [
+        "5 days",
+        "10 days",
+        "30 days",
+        "60 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Workers' Compensation Insurance is required for:",
+      "options": [
+        "All contractors, even with no employees",
+        "All contractors with employees",
+        "Sole proprietors with no employees",
+        "Only on public works projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "Failure to maintain workers’ compensation insurance can result in:",
+      "options": [
+        "A warning only",
+        "License suspension and civil penalties",
+        "Revocation of business entity status only",
+        "No consequences unless there’s an accident"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "An independent contractor is legally defined based on:",
+      "options": [
+        "Whether they have their own tools and set their own schedule",
+        "Whether they work full-time",
+        "Whether the hiring contractor provides lunch",
+        "How much they earn per job"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "California requires contractors with employees to keep payroll records for at least:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "A contractor must register with the Employment Development Department (EDD) when paying wages of at least:",
+      "options": [
+        "$50 in a calendar quarter",
+        "$100 in a calendar quarter",
+        "$500 annually",
+        "$1,000 annually"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "When paying wages, overtime in California generally begins after:",
+      "options": [
+        "6 hours in a day",
+        "8 hours in a day",
+        "10 hours in a day",
+        "12 hours in a day only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "Employers are required to display which poster at the job site?",
+      "options": [
+        "Contractor license number",
+        "Industrial Wage Order and Cal/OSHA Safety Information",
+        "Project specifications",
+        "Federal building code list"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "When an employee quits, California law requires that final wages be paid:",
+      "options": [
+        "Within 24 hours",
+        "On the next scheduled payday",
+        "Within 72 hours (immediately if 72-hour notice is given)",
+        "Within 30 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "What form must be completed for each new employee for federal tax withholding?",
+      "options": [
+        "I-9 Form",
+        "W-4 Form",
+        "1099-MISC Form",
+        "Schedule C"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "To determine whether a worker is an employee or independent contractor, California uses:",
+      "options": [
+        "The “ABC Test” under AB5",
+        "Employer’s written classification",
+        "Federal OSHA rules",
+        "Past job titles"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "A contractor who violates wage and hour laws may be subject to:",
+      "options": [
+        "Suspension of driver’s license",
+        "Penalties, back wages, and potential CSLB disciplinary action",
+        "Loss of federal tax ID only",
+        "A cautionary letter only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "What is the minimum age for a minor to work on a construction site in California (with proper permits)?",
+      "options": [
+        "14 years old",
+        "16 years old",
+        "17 years old",
+        "18 years old"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "Employers must provide rest breaks for non-exempt employees for every:",
+      "options": [
+        "2 hours worked",
+        "4 hours worked (10 minutes)",
+        "6 hours worked",
+        "8 hours worked"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m4-s8": [
+    {
+      "id": "q-1",
+      "question": "California requires every active licensed contractor to have a contractor license bond in the amount of:",
+      "options": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "The primary purpose of a contractor license bond is to:",
+      "options": [
+        "Protect the contractor’s business from losses",
+        "Protect consumers and employees if the contractor violates license law",
+        "Replace general liability insurance",
+        "Guarantee profit on projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "General liability insurance for contractors typically covers:",
+      "options": [
+        "Injuries to workers on site",
+        "Damage to third-party property or injuries to non-employees",
+        "Tools and equipment theft only",
+        "Contractor’s personal injury claims"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A mechanic’s lien gives a contractor the legal right to:",
+      "options": [
+        "Seize a homeowner’s property without court approval",
+        "Place a claim on property for unpaid labor or materials",
+        "Collect payment from CSLB",
+        "Withhold building permits"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Before recording a mechanic’s lien, California law usually requires the contractor to:",
+      "options": [
+        "File a preliminary notice within statutory timeframes",
+        "Submit a complaint to CSLB",
+        "Send a certified demand letter",
+        "Finish all punch-list items first"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "A payment bond is most commonly used on:",
+      "options": [
+        "Private residential projects under $500",
+        "Public works projects",
+        "Projects under $1,000",
+        "Jobs with no subcontractors"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "The contractor’s license bond does NOT cover:",
+      "options": [
+        "Homeowner claims for code violations",
+        "Unpaid subcontractors and employees",
+        "The contractor’s personal business losses",
+        "Fraud or misrepresentation by contractor"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "Workers’ compensation insurance is designed to protect:",
+      "options": [
+        "The contractor from property damage claims",
+        "Employees from medical costs and lost wages due to job injuries",
+        "Homeowners from construction defects",
+        "Lenders in case of project delays"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "If a contractor fails to pay a supplier and a lien is filed, the property owner may:",
+      "options": [
+        "Be required to pay the lienholder even if they already paid the contractor",
+        "Automatically discharge the lien by notifying CSLB",
+        "Void their contract",
+        "File bankruptcy immediately"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "A surety company providing a license bond can seek reimbursement from:",
+      "options": [
+        "CSLB",
+        "The bonded contractor",
+        "The property owner",
+        "Subcontractors"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m4-s9": [
+    {
+      "id": "q-1",
+      "question": "California law requires that all home improvement contracts over what dollar amount be in writing?",
+      "options": [
+        "$250",
+        "$500",
+        "$1,000",
+        "$2,500"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "According to law, change orders must be:",
+      "options": [
+        "Oral agreements confirmed by handshake",
+        "Documented in writing and signed by both parties",
+        "Only required if over $1,000",
+        "Approved by a building inspector"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "All home improvement contracts must include a notice about:",
+      "options": [
+        "The homeowner's right to require workers' compensation insurance",
+        "The contractor's minimum hourly wage",
+        "The property tax implications of improvements",
+        "Federal energy efficiency guidelines"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "The law requires a contractor to include in the contract a notice that the contractor:",
+      "options": [
+        "May not receive payment until the project is complete",
+        "Is licensed and regulated by CSLB, including CSLB contact information",
+        "Must obtain federal clearance for all jobs",
+        "Will provide free estimates for future work"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "If a contract is not in writing when required, CSLB can:",
+      "options": [
+        "Void the contract and take disciplinary action",
+        "Force the homeowner to pay in full",
+        "Issue only a warning letter",
+        "Allow oral agreements as binding"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "If an arbitration clause is included in a home improvement contract, it must:",
+      "options": [
+        "Be written in boldface type and initialed by the homeowner",
+        "Be explained verbally only",
+        "Waive all homeowner rights to sue in court",
+        "Be included without disclosure"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m7-s3": [
+    {
+      "id": "q-1",
+      "question": "A home improvement contract must include:",
+      "options": [
+        "Contractor license number",
+        "Contractor’s social security number",
+        "Client’s tax information",
+        "Bank routing number"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "A home improvement contract must state that work cannot begin until:",
+      "options": [
+        "The contractor has received a 50% deposit",
+        "The contractor has received building permits",
+        "A subcontractor is hired",
+        "The inspector gives verbal approval"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A fixed-price contract is one in which:",
+      "options": [
+        "The owner pays only for time and materials used",
+        "The contract price cannot be changed without a written change order",
+        "The price fluctuates based on market conditions",
+        "No written estimate is provided"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "If an owner signs a contract late in the evening at their home, the rescission period ends:",
+      "options": [
+        "Midnight of the same day",
+        "Midnight of the third business day",
+        "24 hours after signing",
+        "One week after signing"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "A progress payment schedule in a contract must be:",
+      "options": [
+        "Front-loaded to cover all materials upfront",
+        "Tied to specific project milestones",
+        "A flat weekly amount regardless of work completed",
+        "Determined verbally with the client"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "Which of the following is required to be disclosed in a home improvement contract?",
+      "options": [
+        "Contractor’s past clients",
+        "Approximate project start and completion dates",
+        "Contractor’s supplier list",
+        "Contractor’s previous bond claims"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m7-s4": [
+    {
+      "id": "q-1",
+      "question": "The three-day right to cancel (rescission period) for a homeowner applies to:",
+      "options": [
+        "Contracts signed at the contractor’s place of business",
+        "Contracts signed in the homeowner’s residence",
+        "Any contract under $1000",
+        "Government projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "If a contract includes financing, it must comply with:",
+      "options": [
+        "Federal OSHA guidelines",
+        "The Truth in Lending Act",
+        "Workers' compensation rules",
+        "Mechanics' lien law"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When preparing a subcontract agreement, a prime contractor must ensure:",
+      "options": [
+        "The subcontractor’s license is active and in good standing",
+        "The subcontractor is paid in cash only",
+        "The subcontractor signs a mechanic’s lien waiver before work starts",
+        "The subcontractor provides a personal reference"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A contractor must provide a mechanic’s lien warning notice:",
+      "options": [
+        "Only for contracts over $5,000",
+        "On all residential home improvement contracts",
+        "Only when subcontractors are hired",
+        "Only on commercial projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "A time and materials (T&M) contract must include:",
+      "options": [
+        "An hourly labor rate and how materials will be charged",
+        "A guaranteed maximum price",
+        "A fixed lump sum",
+        "A waiver of right to dispute charges"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "A written contract signed by both parties is considered:",
+      "options": [
+        "Legally binding under California law",
+        "Optional unless disputes arise",
+        "Enforceable only if notarized",
+        "Non-binding unless witnessed by a third party"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m4-s5": [
+    {
+      "id": "q-1",
+      "question": "Unlicensed individuals may only perform construction work if the total cost (labor + materials) is under:",
+      "options": [
+        "$200",
+        "$1000",
+        "$1,000",
+        "$2,500"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "A contractor may face criminal penalties for:",
+      "options": [
+        "Working unlicensed on a project over $500",
+        "Advertising for projects under $100",
+        "Using a business name different from license",
+        "Using subcontractors"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "To reinstate a revoked license, a contractor generally must:",
+      "options": [
+        "Reapply, meet all current requirements, and may need to retake the exam",
+        "File a complaint with CSLB",
+        "Obtain a waiver from another contractor",
+        "Pay a late renewal fee only"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m6-s5": [
+    {
+      "id": "q-1",
+      "question": "CSLB can issue a citation and fine for:",
+      "options": [
+        "Failing to include a license number in an advertisement",
+        "Bidding on public works with a valid license",
+        "Using a logo in an ad",
+        "Charging standard rates"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "CSLB may revoke or suspend a license for:",
+      "options": [
+        "Failure to pay subcontractors and suppliers",
+        "Hiring licensed subcontractors",
+        "Charging a standard down payment",
+        "Changing the company name with CSLB approval"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Which of the following is prohibited under California licensing law?",
+      "options": [
+        "Operating under the exact name listed on license",
+        "Using another contractor’s license number to secure a contract",
+        "Providing written contracts",
+        "Including CSLB contact information on documents"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m6-s1": [
+    {
+      "id": "q-1",
+      "question": "A public works project is defined as:",
+      "options": [
+        "Any project costing more than $1000",
+        "Construction, alteration, or repair work paid in whole or part out of public funds",
+        "Only projects exceeding $1 million",
+        "Only state highway projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Retainage (retention) on public works contracts is typically limited to:",
+      "options": [
+        "2% of progress payments",
+        "5% of progress payments",
+        "10% of progress payments",
+        "Any amount the owner chooses"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When subcontracting on a public works project, the prime contractor is responsible for:",
+      "options": [
+        "Ensuring subs are registered with DIR and paid prevailing wages",
+        "Paying only their own employees",
+        "Verifying supplier costs",
+        "Paying workers’ comp only"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m6-s2": [
+    {
+      "id": "q-1",
+      "question": "Contractors on public works projects of $1,000 or more must:",
+      "options": [
+        "Be registered with the Department of Industrial Relations (DIR)",
+        "Hold a federal contractor license",
+        "Provide free services to the city",
+        "Obtain a surety bond of $100,000"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Public agencies must release retention funds within:",
+      "options": [
+        "15 days of final acceptance",
+        "45 days of final acceptance",
+        "90 days of final acceptance",
+        "6 months after project completion"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A bid bond submitted with a public works bid:",
+      "options": [
+        "Ensures the contractor will enter the contract if awarded",
+        "Guarantees project completion",
+        "Guarantees material quality",
+        "Protects against liens"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    }
+  ],
+  "m6-s3": [
+    {
+      "id": "q-1",
+      "question": "On public works projects, prevailing wage rates are determined by:",
+      "options": [
+        "The general contractor’s bid price",
+        "The California Department of Industrial Relations",
+        "CSLB",
+        "The property owner"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "On public works projects, an apprenticeship program must be used when:",
+      "options": [
+        "The project is under $10,000",
+        "The contract is over $30,000 and involves certain trades",
+        "The project is for private schools",
+        "Only union contractors are hired"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Which law regulates public works competitive bidding procedures in California?",
+      "options": [
+        "Labor Code Section 1770",
+        "Public Contract Code",
+        "CSLB administrative rules",
+        "California Civil Code"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m6-s4": [
+    {
+      "id": "q-1",
+      "question": "A contractor who fails to pay prevailing wages on a public works project may face:",
+      "options": [
+        "No penalty if subcontractors are at fault",
+        "Civil penalties, debarment from future public work, and possible CSLB discipline",
+        "Loss of contractor bond only",
+        "Verbal warning from project manager"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Certified payroll reports on public works projects must be submitted:",
+      "options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Only at the end of the project"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A payment bond on a public works project protects:",
+      "options": [
+        "The owner from defective work",
+        "Subcontractors and suppliers ensuring they are paid",
+        "The prime contractor’s profits",
+        "The public agency from project delays"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m9-s1": [
+    {
+      "id": "q-1",
+      "question": "According to CRC, what is the minimum allowable width of a residential hallway?",
+      "options": [
+        "44 inches",
+        "40 inches",
+        "36 inches",
+        "32 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "When preparing a cost estimate for a remodel, which of the following is the most accurate method to account for unknown conditions?",
+      "options": [
+        "Use a lump-sum guess based on similar jobs",
+        "Use square-foot pricing only",
+        "Add a contingency percentage to a detailed unit cost estimate",
+        "Ignore unknowns to keep the bid competitive"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "Which document prevails if there is a conflict between project specifications and shop drawings?",
+      "options": [
+        "Shop drawings",
+        "Verbal instructions from foreman",
+        "Project specifications",
+        "Manufacturer’s installation manual"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A contractor needs to provide an estimate for removing non-load-bearing walls and installing new framing. Which step should they take first?",
+      "options": [
+        "Request a demolition permit only",
+        "Verify presence of utilities and consult plans",
+        "Order materials before inspection",
+        "Apply primer to new wall surfaces"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "According to CRC, what is the minimum ceiling height required for habitable rooms in a residential dwelling?",
+      "options": [
+        "6 feet 8 inches",
+        "7 feet",
+        "7 feet 6 inches",
+        "8 feet"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "When estimating project costs, which of the following is NOT typically included in direct costs?",
+      "options": [
+        "Labor wages",
+        "Materials",
+        "Equipment rental",
+        "Overhead expenses"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "A contractor rents scaffolding for $80/day for 5 days and applies a 15% markup. What is the total charge?",
+      "options": [
+        "$460.00",
+        "$460.00 + $69.00 = $529.00",
+        "$475.00",
+        "$545.00"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "What is the purpose of a field inspection before finalizing a remodeling estimate?",
+      "options": [
+        "To check if the client’s budget is sufficient",
+        "To identify potential code compliance issues and hidden conditions",
+        "To determine marketing opportunities",
+        "To start demolition without a permit"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "In project planning, the critical path method (CPM) is primarily used to:",
+      "options": [
+        "Estimate total material quantities",
+        "Determine shortest possible project duration",
+        "Compare labor costs",
+        "Schedule subcontractor payments"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "According to CRC, what is the minimum required landing depth on the exterior side of a residential entry door?",
+      "options": [
+        "30 inches",
+        "32 inches",
+        "36 inches",
+        "40 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "Which of the following is true regarding load-bearing vs non-load-bearing walls during planning?",
+      "options": [
+        "Non-load-bearing walls may be removed without inspection.",
+        "Load-bearing walls can be removed if replaced with like materials.",
+        "Structural engineer or plans review is required before removing load-bearing walls",
+        "Both can be removed without a permit if under 10 feet."
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "Which cost estimating document details labor, material, and equipment costs for each task?",
+      "options": [
+        "Lump sum bid sheet",
+        "Unit price estimate sheet",
+        "Change order",
+        "Letter of intent"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "If plans and specifications do not specify a particular code requirement, what governs the construction?",
+      "options": [
+        "Verbal instructions from contractor",
+        "Most recent California Residential Code provisions",
+        "Manufacturer brochures",
+        "Past project practices"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "The primary purpose of a pre-construction site walkthrough with the homeowner is to:",
+      "options": [
+        "Finalize material selections and identify potential issues",
+        "Begin demolition",
+        "Determine which subcontractor will be hired",
+        "Sign change orders in advance"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "A contractor is estimating tile work for a kitchen backsplash of 40 sq ft. Tile cost is $4/sq ft, labor $5/sq ft, with a 10% waste factor. What is the total estimated cost (no markup)?",
+      "options": [
+        "$360",
+        "$396",
+        "$400",
+        "$440"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-16",
+      "question": "Before removing a non-load-bearing wall, what is the first safety step a contractor should take?",
+      "options": [
+        "Install dust barriers",
+        "Shut off and verify electrical and plumbing services",
+        "Remove drywall only",
+        "Cover all furniture"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-17",
+      "question": "What must be done before demolition in a structure built before 1978?",
+      "options": [
+        "Confirm asbestos presence only",
+        "Test for lead-based paint and follow EPA RRP regulations",
+        "Notify local fire department",
+        "Obtain a roofing permit"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-18",
+      "question": "When delivering lumber to a job site, what is the best practice to prevent warping?",
+      "options": [
+        "Stack directly on bare ground",
+        "Stack flat, elevated off ground, and cover",
+        "Leave exposed for acclimation",
+        "Lean upright against a wall"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-19",
+      "question": "According to Cal/OSHA, when is a hazardous materials survey required before demolition?",
+      "options": [
+        "For all commercial projects only",
+        "When suspect asbestos-containing material or lead paint may be disturbed",
+        "Only for multifamily buildings",
+        "Never required unless ordered by inspector"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-20",
+      "question": "What should be done with plumbing fixtures prior to removal during remodeling?",
+      "options": [
+        "Disconnect water supply and drain lines",
+        "Remove without disconnecting to save time",
+        "Cut pipes and leave stubs unsealed",
+        "Remove only after new fixtures arrive"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-21",
+      "question": "According to standard job site practices, how should drywall sheets be stored?",
+      "options": [
+        "Vertically leaning against framing",
+        "Flat on level supports, protected from moisture",
+        "Outside under a tarp",
+        "Stacked on uneven ground"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-22",
+      "question": "When removing kitchen cabinets, which step should be performed first?",
+      "options": [
+        "Remove cabinet doors and hardware",
+        "Pull cabinets from wall in one piece",
+        "Remove countertop first without disconnecting sink",
+        "Cut wall studs to loosen cabinetry"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-23",
+      "question": "According to CRC, what is required to protect floors during heavy demolition?",
+      "options": [
+        "Carpet padding",
+        "Plywood or hardboard sheets",
+        "Plastic film only",
+        "Nothing unless flooring is finished hardwood"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-24",
+      "question": "Where should roofing materials be stored prior to installation?",
+      "options": [
+        "On roof deck before structural inspection",
+        "On stable, level ground with weather protection",
+        "Mixed in with lumber piles",
+        "In open driveway without cover"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-25",
+      "question": "Before cutting into a wall that contains plumbing or wiring, a contractor should:",
+      "options": [
+        "Assume no services exist",
+        "Use a stud finder or scanner to locate hidden utilities",
+        "Cut a small test hole blindly",
+        "Disconnect all water only, not electrical"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-26",
+      "question": "When planning temporary storage for removed cabinets and doors, what is the primary concern?",
+      "options": [
+        "Keeping items stacked neatly for appearance",
+        "Avoiding trip hazards and maintaining clear egress routes",
+        "Maximizing floor space use",
+        "Leaving materials near exits for easy removal"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-27",
+      "question": "According to Cal/OSHA, how should demolition debris be handled on multi-story buildings to maintain safety?",
+      "options": [
+        "Dropped through floor openings",
+        "Carried down stairs only",
+        "Removed via enclosed debris chute or controlled mechanical means",
+        "Tossed out windows with a lookout person below"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-28",
+      "question": "Before starting a bathroom remodel involving electrical fixture removal, what should be done?",
+      "options": [
+        "Verify branch circuit is de-energized and locked out/tagged out",
+        "Remove light fixture first, then turn breaker off",
+        "Disconnect only neutral wire",
+        "Cover switches with tape instead of de-energizing"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-29",
+      "question": "According to CPC, the minimum slope for a horizontal drainpipe less than 3 inches in diameter is:",
+      "options": [
+        "1/8 inch per foot",
+        "1/4 inch per foot",
+        "3/8 inch per foot",
+        "1/2 inch per foot"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-30",
+      "question": "In residential plumbing, the minimum trap arm length for a lavatory is:",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-31",
+      "question": "Electrical receptacles in a bathroom must be:",
+      "options": [
+        "Connected to a 20-amp dedicated circuit and GFCI-protected",
+        "On a shared lighting circuit",
+        "Aluminum wired only",
+        "10 feet from water source"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-32",
+      "question": "Minimum distance required between a gas water heater and combustible materials (without a shield):",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "3 inches",
+        "6 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m9-s2": [
+    {
+      "id": "q-1",
+      "question": "According to CEC, kitchen countertop outlets must be placed so that no point on the counter is more than:",
+      "options": [
+        "12 inches from an outlet",
+        "24 inches from an outlet",
+        "24 inches from an outlet horizontally",
+        "48 inches from an outlet"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "In forced-air systems, flexible duct runs should be supported at intervals not exceeding:",
+      "options": [
+        "2 feet",
+        "4 feet",
+        "6 feet",
+        "8 feet"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When replacing drywall, fastener spacing for screws on wall framing is typically:",
+      "options": [
+        "6 inches on edges, 12 inches in field",
+        "8 inches on edges, 16 inches in field",
+        "10 inches everywhere",
+        "24 inches anywhere"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "When framing an interior non-load-bearing wall, typical stud spacing is:",
+      "options": [
+        "12 inches on center",
+        "16 inches on center",
+        "20 inches on center",
+        "24 inches on center only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Minimum stair tread depth allowed by CRC is:",
+      "options": [
+        "9 inches",
+        "9 1/4 inches",
+        "10 inches",
+        "11 inches"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "Maximum stair riser height allowed by CRC is:",
+      "options": [
+        "7 inches",
+        "7 3/4 inches",
+        "8 inches",
+        "8 1/4 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "When installing new outlets, the height above finished floor should generally be:",
+      "options": [
+        "8 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "A shower drain must be sloped a minimum of:",
+      "options": [
+        "1/8 inch per foot",
+        "1/4 inch per foot",
+        "3/8 inch per foot",
+        "1/2 inch per foot"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "What type of pipe is not allowed for water supply inside residential walls?",
+      "options": [
+        "Copper",
+        "PEX",
+        "Galvanized steel",
+        "PVC (not rated for hot water)"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "Electrical boxes must remain flush to drywall surface within a tolerance of:",
+      "options": [
+        "1/8 inch",
+        "1/4 inch",
+        "3/8 inch",
+        "1/2 inch"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "According to CEC, ground-fault circuit interrupters (GFCIs) are required in:",
+      "options": [
+        "Bathrooms, kitchens, laundry, garages, outdoor receptacles",
+        "Bedrooms only",
+        "Hallways",
+        "Attics"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "Minimum clearance between combustion air opening and ground for gas appliances:",
+      "options": [
+        "3 inches",
+        "6 inches",
+        "12 inches",
+        "18 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "When replacing flooring, expansion gaps should typically be left at:",
+      "options": [
+        "1/16 inch",
+        "1/8 inch",
+        "1/4 inch",
+        "No gap is necessary"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "Joist spacing for typical 3/4\" subfloor with tile finish should not exceed:",
+      "options": [
+        "12 inches on center",
+        "16 inches on center",
+        "20 inches on center",
+        "24 inches on center"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "When cutting or notching studs, the maximum allowable notch depth in non-load-bearing walls is:",
+      "options": [
+        "25% of stud width",
+        "30% of stud width",
+        "40% of stud width",
+        "50% of stud width"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-16",
+      "question": "Maximum height difference between adjacent flooring surfaces to avoid tripping hazard per CRC:",
+      "options": [
+        "1/4 inch",
+        "3/8 inch",
+        "1/2 inch",
+        "3/4 inch"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-17",
+      "question": "Before installing new mechanical equipment in an attic, the code requires:",
+      "options": [
+        "Access opening large enough to remove unit",
+        "Only a basic ladder",
+        "No access if under 5 tons",
+        "Equipment can be permanently sealed"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-18",
+      "question": "When replacing copper pipes with PEX, the transition fitting must be:",
+      "options": [
+        "Standard compression fitting",
+        "Approved brass or plastic transition adapter",
+        "Soldered brass",
+        "Direct slip coupling"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-19",
+      "question": "When installing stair handrails, the required height above tread nosing is:",
+      "options": [
+        "30-34 inches",
+        "34-38 inches",
+        "36-40 inches",
+        "40-42 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-20",
+      "question": "When adding a new lighting circuit, conductors must be secured within:",
+      "options": [
+        "6 inches of each box",
+        "8 inches of each box",
+        "12 inches of each box",
+        "24 inches of each box"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-21",
+      "question": "The minimum vent pipe diameter for a single-bathroom group is typically:",
+      "options": [
+        "1 inch",
+        "1 1/2 inches",
+        "2 inches",
+        "3 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-22",
+      "question": "The recommended minimum grout joint width for 12\"x12\" ceramic tile installations per TCNA standards is:",
+      "options": [
+        "1/16 inch",
+        "1/8 inch",
+        "1/4 inch",
+        "3/8 inch"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-23",
+      "question": "The standard height for installing base kitchen cabinets (without countertop) is:",
+      "options": [
+        "30 inches",
+        "32 inches",
+        "34 1/2 inches",
+        "36 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-24",
+      "question": "The minimum backsplash height required behind a kitchen countertop adjacent to a sink is:",
+      "options": [
+        "2 inches",
+        "4 inches",
+        "6 inches",
+        "None is required by code"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-25",
+      "question": "What is the recommended clearance between upper kitchen cabinets and countertop?",
+      "options": [
+        "12 inches",
+        "18 inches",
+        "24 inches",
+        "30 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-26",
+      "question": "When installing a stone or tile countertop, seams should be:",
+      "options": [
+        "Randomly placed",
+        "Placed over unsupported spans",
+        "Placed over supported cabinets and aligned where possible",
+        "Avoided at all costs"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-27",
+      "question": "Best practice for finishing wood trim before installation is to:",
+      "options": [
+        "Pre-finish to seal all sides, including cut ends",
+        "Finish only exposed faces after installation",
+        "Install unsealed trim to save time",
+        "Apply paint only if staining"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-28",
+      "question": "When installing interior paint in a high-moisture area like a bathroom, which finish is most suitable?",
+      "options": [
+        "Flat latex",
+        "Eggshell",
+        "Satin or semi-gloss",
+        "Matte enamel"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-29",
+      "question": "What type of adhesive is recommended for ceramic tile backsplashes on drywall?",
+      "options": [
+        "Latex-modified thinset mortar",
+        "Construction adhesive",
+        "Wood glue",
+        "Plaster compound"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-30",
+      "question": "The minimum overlap for fiber-cement siding (lap siding) is typically:",
+      "options": [
+        "1 inch",
+        "1 1/4 inches",
+        "1 1/2 inches",
+        "2 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-31",
+      "question": "The recommended nail length for fastening 3/4-inch hardwood trim into wood framing is:",
+      "options": [
+        "1 inch",
+        "1 1/4 inches",
+        "1 1/2 inches",
+        "2 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-32",
+      "question": "According to CRC, mantels above fireplaces must be installed a minimum of how far above the firebox opening?",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m9-s3": [
+    {
+      "id": "q-1",
+      "question": "When installing wall coverings, seams should be:",
+      "options": [
+        "Placed randomly to avoid patterns",
+        "Matched carefully and smoothed to avoid bubbles",
+        "Overlapped by at least 1 inch",
+        "Left unsealed for later trimming"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "The best way to ensure paint adhesion on previously painted surfaces is to:",
+      "options": [
+        "Apply paint directly over old surface",
+        "Clean and lightly sand before priming",
+        "Apply extra thick coat",
+        "Use construction adhesive under paint"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "When installing a floating laminate floor, an expansion gap of at least how much should be left at walls and fixed objects?",
+      "options": [
+        "1/16 inch",
+        "1/8 inch",
+        "1/4 inch",
+        "None is necessary"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "The proper substrate for tile installation in wet areas such as showers is:",
+      "options": [
+        "Greenboard drywall only",
+        "Cement backer board or approved waterproof substrate",
+        "Plain gypsum board",
+        "OSB sheathing without barrier"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "When cutting stone countertops, the installer should:",
+      "options": [
+        "Dry cut indoors",
+        "Wet cut outdoors or with dust collection to control silica dust",
+        "Use any method available",
+        "Avoid PPE if using water cutting"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "Minimum clearance required between top of kitchen wall cabinets and ceiling (standard ceiling height) is:",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "No clearance required"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "Which type of primer should be used before painting bare wood trim?",
+      "options": [
+        "Oil- or shellac-based primer",
+        "Water only",
+        "Drywall primer",
+        "Latex finish paint"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "According to CRC, what is the minimum allowable slope for installing asphalt shingles (with required underlayment)?",
+      "options": [
+        "1:12",
+        "2:12",
+        "3:12",
+        "4:12"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "The minimum net clear opening area for an emergency escape window in a sleeping room is:",
+      "options": [
+        "4.0 sq ft",
+        "5.0 sq ft",
+        "5.7 sq ft",
+        "6.0 sq ft"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "Flashing around roof penetrations must be installed:",
+      "options": [
+        "Only on the uphill side",
+        "Under underlayment",
+        "Over underlayment and integrated with roofing",
+        "Only if using shingles"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "Minimum required step flashing overlap when installing shingles along a wall is:",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "3 inches",
+        "4 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "Minimum clearance required between exterior siding and finished grade is:",
+      "options": [
+        "2 inches",
+        "4 inches",
+        "6 inches",
+        "8 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "When replacing a roof, which of the following is required before installing new shingles?",
+      "options": [
+        "Apply new shingles over old shingles without inspection",
+        "Remove all damaged or deteriorated sheathing and replace as needed",
+        "Skip underlayment to save cost",
+        "Use any fastener type available"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "What type of nails is recommended for fastening asphalt shingles?",
+      "options": [
+        "Smooth shank aluminum nails",
+        "Hot-dipped galvanized or stainless steel roofing nails",
+        "Drywall screws",
+        "Staples"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "Exterior windows and doors installed in new openings must be:",
+      "options": [
+        "Weather-resistant, flashed, and sealed per manufacturer’s instructions",
+        "Set flush with siding without flashing",
+        "Supported by interior trim only",
+        "Installed with caulking only"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-16",
+      "question": "The maximum height above floor for an emergency escape window sill is:",
+      "options": [
+        "36 inches",
+        "44 inches",
+        "48 inches",
+        "52 inches"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-17",
+      "question": "To ensure proper drainage, roof gutters should have a minimum slope of:",
+      "options": [
+        "1/16 inch per foot",
+        "1/8 inch per foot",
+        "1/4 inch per foot",
+        "Level is acceptable"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-18",
+      "question": "When remodeling exterior walls, what is required for fire blocking around concealed spaces?",
+      "options": [
+        "It is not required for remodeling",
+        "Install blocking at each floor level and between studs at soffits or concealed spaces",
+        "Use insulation as a substitute",
+        "Fire blocking is only required in new construction"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-19",
+      "question": "When replacing exterior wall sheathing, what is the minimum nail penetration into studs required by CRC?",
+      "options": [
+        "1 inch",
+        "1 1/2 inches",
+        "2 inches",
+        "3/4 inch"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-20",
+      "question": "When installing weather-resistive barriers (WRB), overlapping horizontal seams should be at least:",
+      "options": [
+        "1 inch",
+        "2 inches",
+        "4 inches",
+        "6 inches"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-21",
+      "question": "Who is responsible for providing a safe working environment on a construction site?",
+      "options": [
+        "The building inspector",
+        "The project owner",
+        "The contractor/employer",
+        "Each worker individually only"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-22",
+      "question": "Contractors with employees must have a written Injury and Illness Prevention Program (IIPP):",
+      "options": [
+        "Only for public works projects",
+        "For all job sites with employees",
+        "Only if there are more than 10 employees",
+        "Only when requested by CSLB"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-23",
+      "question": "Employers must provide employees with training and instruction on safety:",
+      "options": [
+        "Once per year only",
+        "When they are first hired and when new hazards are introduced",
+        "Only after an accident occurs",
+        "Optional for experienced workers"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-24",
+      "question": "On multi-employer job sites, who is ultimately responsible for overall site safety compliance?",
+      "options": [
+        "The city inspector",
+        "The prime or general contractor",
+        "Each subcontractor individually only",
+        "CSLB representatives"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-25",
+      "question": "Cal/OSHA requires contractors to report serious injuries or fatalities to the nearest Cal/OSHA district office within:",
+      "options": [
+        "2 hours",
+        "8 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-26",
+      "question": "Employers must provide Material Safety Data Sheets (MSDS/SDS):",
+      "options": [
+        "Upon employee request for hazardous substances used on the job",
+        "Only if over 10 gallons of chemicals are stored",
+        "Optional unless Cal/OSHA inspects",
+        "Only for public projects"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-27",
+      "question": "When using scaffolding above 7 1/2 feet, Cal/OSHA requires:",
+      "options": [
+        "Toe boards, midrails, and guardrails",
+        "A warning sign only",
+        "Fall protection harness only",
+        "No protection unless scaffolding exceeds 20 feet"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-28",
+      "question": "A contractor must provide first-aid supplies:",
+      "options": [
+        "Only if the job site is over 5 miles from a hospital",
+        "Readily available on every job site",
+        "Only on jobs lasting more than 30 days",
+        "Only for projects with more than 10 workers"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-29",
+      "question": "Cal/OSHA requires portable fire extinguishers to be:",
+      "options": [
+        "Available within 50 feet of any flammable material",
+        "Only in company vehicles",
+        "Not necessary for remodel projects",
+        "Kept locked to prevent unauthorized use"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-30",
+      "question": "Employers must provide and ensure the use of PPE such as hard hats, safety glasses, and gloves:",
+      "options": [
+        "Only when employees request it",
+        "At no cost to employees when hazards require it",
+        "Only on public works projects",
+        "Optional if the employee owns their own PPE"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-31",
+      "question": "The Contractors State License Board (CSLB) issues licenses to:",
+      "options": [
+        "Corporations only",
+        "Individuals, partnerships, corporations, LLCs, and joint ventures",
+        "Sole proprietors only",
+        "Unions and labor organizations"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-32",
+      "question": "A qualifying individual for a contractor’s license must have at least:",
+      "options": [
+        "2 years of journeyman-level experience",
+        "4 years of journey-level experience within the past 10 years",
+        "A college degree only",
+        "8 years of management experience"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m9-s4": [
+    {
+      "id": "q-1",
+      "question": "Which type of license is required for a joint venture of two licensed contractors?",
+      "options": [
+        "Separate licenses for each contractor only",
+        "A new joint venture license issued by CSLB",
+        "No additional license is required",
+        "A temporary permit"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "Which entity governs the laws that establish and regulate contractor licensing in California?",
+      "options": [
+        "Department of Consumer Affairs",
+        "Secretary of State",
+        "Department of Industrial Relations",
+        "Department of Real Estate"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A contractor’s license number must appear on:",
+      "options": [
+        "Business cards only",
+        "All contracts, bids, and advertising",
+        "Tax returns only",
+        "Internal invoices"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A corporation applying for a contractor’s license must also:",
+      "options": [
+        "Have a qualifying individual licensed in another state",
+        "Register with the California Secretary of State",
+        "Provide a general liability policy only",
+        "File Articles of Incorporation with CSLB directly"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "If a licensee operates under more than one business name:",
+      "options": [
+        "Each name must be separately licensed",
+        "Only one license is needed",
+        "DBA names do not require separate licenses",
+        "CSLB must approve, but no separate license is required"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "When is a contractor allowed to advertise for construction work without a license number displayed?",
+      "options": [
+        "Never, unless the work is under $1000 and clearly states they are unlicensed",
+        "If the job is under $1,000",
+        "If the job is for friends or family",
+        "If using only subcontractors"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "Who is responsible for supervising work performed under a contractor’s license?",
+      "options": [
+        "Any employee of the company",
+        "The qualifying individual listed on the license",
+        "The client’s architect or designer",
+        "City building inspector"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "The CSLB may issue a Cautionary Letter of Admonishment for:",
+      "options": [
+        "Serious fraud violations",
+        "Minor infractions that do not cause financial harm",
+        "Any violation requiring suspension",
+        "Failure to pay taxes"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "If a partnership holding a contractor’s license dissolves, what happens to the license?",
+      "options": [
+        "It remains valid indefinitely",
+        "It automatically becomes inactive or expires",
+        "It transfers to any partner who continues",
+        "It converts to a sole proprietor license"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "To reinstate an expired contractor’s license within 5 years, the licensee must:",
+      "options": [
+        "Retake the exam",
+        "Pay all applicable renewal and delinquency fees",
+        "Apply for a new license entirely",
+        "Provide new qualifying experience"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "The CSLB’s Registrar of Contractors has the authority to:",
+      "options": [
+        "Prosecute contractors in civil court",
+        "Suspend or revoke licenses after due process",
+        "Set contractor wage rates",
+        "Enforce federal OSHA rules"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "A limited liability company (LLC) applying for a license must also:",
+      "options": [
+        "Provide a $100,000 LLC employee bond",
+        "Provide a $50,000 bond like other entities",
+        "Have 10 members minimum",
+        "Maintain a C-2 license by default"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "Which of the following is NOT a valid business entity for holding a contractor’s license in California?",
+      "options": [
+        "Sole proprietorship",
+        "Corporation",
+        "Limited partnership",
+        "Nonprofit charity"
+      ],
+      "correctAnswer": 3,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "The primary purpose of a Schedule of Values in a construction project is to:",
+      "options": [
+        "Estimate total project duration",
+        "Break down the contract price for progress payments",
+        "Determine the number of workers required",
+        "Replace a signed contract"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "What type of account should a contractor use to deposit project funds and pay expenses?",
+      "options": [
+        "Personal checking account",
+        "Separate business checking account",
+        "Client’s personal account",
+        "Savings account only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-16",
+      "question": "Retention is typically withheld from progress payments to:",
+      "options": [
+        "Increase contractor profit",
+        "Ensure contractor completes the project satisfactorily",
+        "Pay subcontractors faster",
+        "Avoid paying taxes"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-17",
+      "question": "According to California law, a contractor may request a down payment of:",
+      "options": [
+        "Up to 50% of the contract price",
+        "No more than 10% or $1,000, whichever is less",
+        "Unlimited, if agreed by client",
+        "None is allowed by law"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-18",
+      "question": "If a contractor fails to separate personal and business funds, what is the potential consequence?",
+      "options": [
+        "Faster tax refunds",
+        "Loss of liability protection and accounting errors",
+        "Easier credit approval",
+        "Reduced licensing fees"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-19",
+      "question": "Which of the following is considered an overhead cost?",
+      "options": [
+        "Jobsite materials",
+        "Direct labor wages",
+        "Office rent and utilities",
+        "Subcontractor payments"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-20",
+      "question": "The purpose of a profit and loss statement (P&L) is to:",
+      "options": [
+        "Show project timelines",
+        "Show financial performance over a period of time",
+        "Show current bank balance",
+        "Replace invoices"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-21",
+      "question": "A lien release is typically issued to:",
+      "options": [
+        "The IRS",
+        "The property owner to show a subcontractor or supplier has been paid",
+        "The city inspector",
+        "CSLB directly"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-22",
+      "question": "Which of the following is a fixed cost for a contractor?",
+      "options": [
+        "Workers’ compensation insurance premiums",
+        "Materials for each job",
+        "Temporary labor",
+        "Equipment rental per project"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-23",
+      "question": "According to CSLB rules, a contractor must keep financial records for at least:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-24",
+      "question": "A unit price estimate is most appropriate for:",
+      "options": [
+        "Unknown quantities of work items",
+        "Fixed lump-sum contracts only",
+        "Time-and-materials projects exclusively",
+        "Projects without change orders"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-25",
+      "question": "Which of the following best defines accounts receivable?",
+      "options": [
+        "Money owed to suppliers",
+        "Money owed to the contractor by clients",
+        "Money borrowed from the bank",
+        "Retention held on a job"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-26",
+      "question": "California requires contractors with employees to maintain payroll records for at least:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-27",
+      "question": "When budgeting for a project, contingency funds are typically set aside to cover:",
+      "options": [
+        "Profit",
+        "Unforeseen costs or changes in work scope",
+        "Advertising expenses",
+        "Warranty costs only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-28",
+      "question": "Which of the following must be included in a contractor’s bid under California law?",
+      "options": [
+        "Contractor license number",
+        "Personal references",
+        "Last 3 years of tax returns",
+        "Bank account information"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-29",
+      "question": "In California, every employer must provide employees with:",
+      "options": [
+        "A copy of their subcontractor license",
+        "A written itemized wage statement each pay period",
+        "A letter of recommendation",
+        "A yearly safety bonus"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-30",
+      "question": "Employers must report newly hired or rehired employees to the New Employee Registry within:",
+      "options": [
+        "5 days",
+        "10 days",
+        "30 days",
+        "60 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-31",
+      "question": "Workers' Compensation Insurance is required for:",
+      "options": [
+        "All contractors, even with no employees",
+        "All contractors with employees",
+        "Sole proprietors with no employees",
+        "Only on public works projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-32",
+      "question": "Failure to maintain workers’ compensation insurance can result in:",
+      "options": [
+        "A warning only",
+        "License suspension and civil penalties",
+        "Revocation of business entity status only",
+        "No consequences unless there’s an accident"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m9-s5": [
+    {
+      "id": "q-1",
+      "question": "An independent contractor is legally defined based on:",
+      "options": [
+        "Whether they have their own tools and set their own schedule",
+        "Whether they work full-time",
+        "Whether the hiring contractor provides lunch",
+        "How much they earn per job"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "California requires contractors with employees to keep payroll records for at least:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A contractor must register with the Employment Development Department (EDD) when paying wages of at least:",
+      "options": [
+        "$50 in a calendar quarter",
+        "$100 in a calendar quarter",
+        "$500 annually",
+        "$1,000 annually"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "When paying wages, overtime in California generally begins after:",
+      "options": [
+        "6 hours in a day",
+        "8 hours in a day",
+        "10 hours in a day",
+        "12 hours in a day only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "Employers are required to display which poster at the job site?",
+      "options": [
+        "Contractor license number",
+        "Industrial Wage Order and Cal/OSHA Safety Information",
+        "Project specifications",
+        "Federal building code list"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "When an employee quits, California law requires that final wages be paid:",
+      "options": [
+        "Within 24 hours",
+        "On the next scheduled payday",
+        "Within 72 hours (immediately if 72-hour notice is given)",
+        "Within 30 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "What form must be completed for each new employee for federal tax withholding?",
+      "options": [
+        "I-9 Form",
+        "W-4 Form",
+        "1099-MISC Form",
+        "Schedule C"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "To determine whether a worker is an employee or independent contractor, California uses:",
+      "options": [
+        "The “ABC Test” under AB5",
+        "Employer’s written classification",
+        "Federal OSHA rules",
+        "Past job titles"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "A contractor who violates wage and hour laws may be subject to:",
+      "options": [
+        "Suspension of driver’s license",
+        "Penalties, back wages, and potential CSLB disciplinary action",
+        "Loss of federal tax ID only",
+        "A cautionary letter only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "What is the minimum age for a minor to work on a construction site in California (with proper permits)?",
+      "options": [
+        "14 years old",
+        "16 years old",
+        "17 years old",
+        "18 years old"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "Employers must provide rest breaks for non-exempt employees for every:",
+      "options": [
+        "2 hours worked",
+        "4 hours worked (10 minutes)",
+        "6 hours worked",
+        "8 hours worked"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "California requires every active licensed contractor to have a contractor license bond in the amount of:",
+      "options": [
+        "$10,000",
+        "$15,000",
+        "$25,000",
+        "$50,000"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "The primary purpose of a contractor license bond is to:",
+      "options": [
+        "Protect the contractor’s business from losses",
+        "Protect consumers and employees if the contractor violates license law",
+        "Replace general liability insurance",
+        "Guarantee profit on projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "General liability insurance for contractors typically covers:",
+      "options": [
+        "Injuries to workers on site",
+        "Damage to third-party property or injuries to non-employees",
+        "Tools and equipment theft only",
+        "Contractor’s personal injury claims"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "A mechanic’s lien gives a contractor the legal right to:",
+      "options": [
+        "Seize a homeowner’s property without court approval",
+        "Place a claim on property for unpaid labor or materials",
+        "Collect payment from CSLB",
+        "Withhold building permits"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-16",
+      "question": "Before recording a mechanic’s lien, California law usually requires the contractor to:",
+      "options": [
+        "File a preliminary notice within statutory timeframes",
+        "Submit a complaint to CSLB",
+        "Send a certified demand letter",
+        "Finish all punch-list items first"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-17",
+      "question": "A payment bond is most commonly used on:",
+      "options": [
+        "Private residential projects under $500",
+        "Public works projects",
+        "Projects under $1,000",
+        "Jobs with no subcontractors"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-18",
+      "question": "The contractor’s license bond does NOT cover:",
+      "options": [
+        "Homeowner claims for code violations",
+        "Unpaid subcontractors and employees",
+        "The contractor’s personal business losses",
+        "Fraud or misrepresentation by contractor"
+      ],
+      "correctAnswer": 2,
+      "explanation": ""
+    },
+    {
+      "id": "q-19",
+      "question": "Workers’ compensation insurance is designed to protect:",
+      "options": [
+        "The contractor from property damage claims",
+        "Employees from medical costs and lost wages due to job injuries",
+        "Homeowners from construction defects",
+        "Lenders in case of project delays"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-20",
+      "question": "If a contractor fails to pay a supplier and a lien is filed, the property owner may:",
+      "options": [
+        "Be required to pay the lienholder even if they already paid the contractor",
+        "Automatically discharge the lien by notifying CSLB",
+        "Void their contract",
+        "File bankruptcy immediately"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-21",
+      "question": "A surety company providing a license bond can seek reimbursement from:",
+      "options": [
+        "CSLB",
+        "The bonded contractor",
+        "The property owner",
+        "Subcontractors"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-22",
+      "question": "California law requires that all home improvement contracts over what dollar amount be in writing?",
+      "options": [
+        "$250",
+        "$500",
+        "$1,000",
+        "$2,500"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-23",
+      "question": "A home improvement contract must include:",
+      "options": [
+        "Contractor license number",
+        "Contractor’s social security number",
+        "Client’s tax information",
+        "Bank routing number"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-24",
+      "question": "The three-day right to cancel (rescission period) for a homeowner applies to:",
+      "options": [
+        "Contracts signed at the contractor’s place of business",
+        "Contracts signed in the homeowner’s residence",
+        "Any contract under $1000",
+        "Government projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-25",
+      "question": "According to law, change orders must be:",
+      "options": [
+        "Oral agreements confirmed by handshake",
+        "Documented in writing and signed by both parties",
+        "Only required if over $1,000",
+        "Approved by a building inspector"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-26",
+      "question": "A home improvement contract must state that work cannot begin until:",
+      "options": [
+        "The contractor has received a 50% deposit",
+        "The contractor has received building permits",
+        "A subcontractor is hired",
+        "The inspector gives verbal approval"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-27",
+      "question": "If a contract includes financing, it must comply with:",
+      "options": [
+        "Federal OSHA guidelines",
+        "The Truth in Lending Act",
+        "Workers' compensation rules",
+        "Mechanics' lien law"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-28",
+      "question": "All home improvement contracts must include a notice about:",
+      "options": [
+        "The homeowner's right to require workers' compensation insurance",
+        "The contractor's minimum hourly wage",
+        "The property tax implications of improvements",
+        "Federal energy efficiency guidelines"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-29",
+      "question": "A fixed-price contract is one in which:",
+      "options": [
+        "The owner pays only for time and materials used",
+        "The contract price cannot be changed without a written change order",
+        "The price fluctuates based on market conditions",
+        "No written estimate is provided"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-30",
+      "question": "When preparing a subcontract agreement, a prime contractor must ensure:",
+      "options": [
+        "The subcontractor’s license is active and in good standing",
+        "The subcontractor is paid in cash only",
+        "The subcontractor signs a mechanic’s lien waiver before work starts",
+        "The subcontractor provides a personal reference"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-31",
+      "question": "The law requires a contractor to include in the contract a notice that the contractor:",
+      "options": [
+        "May not receive payment until the project is complete",
+        "Is licensed and regulated by CSLB, including CSLB contact information",
+        "Must obtain federal clearance for all jobs",
+        "Will provide free estimates for future work"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-32",
+      "question": "If an owner signs a contract late in the evening at their home, the rescission period ends:",
+      "options": [
+        "Midnight of the same day",
+        "Midnight of the third business day",
+        "24 hours after signing",
+        "One week after signing"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ],
+  "m9-s6": [
+    {
+      "id": "q-1",
+      "question": "A contractor must provide a mechanic’s lien warning notice:",
+      "options": [
+        "Only for contracts over $5,000",
+        "On all residential home improvement contracts",
+        "Only when subcontractors are hired",
+        "Only on commercial projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-2",
+      "question": "If a contract is not in writing when required, CSLB can:",
+      "options": [
+        "Void the contract and take disciplinary action",
+        "Force the homeowner to pay in full",
+        "Issue only a warning letter",
+        "Allow oral agreements as binding"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-3",
+      "question": "A progress payment schedule in a contract must be:",
+      "options": [
+        "Front-loaded to cover all materials upfront",
+        "Tied to specific project milestones",
+        "A flat weekly amount regardless of work completed",
+        "Determined verbally with the client"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-4",
+      "question": "A time and materials (T&M) contract must include:",
+      "options": [
+        "An hourly labor rate and how materials will be charged",
+        "A guaranteed maximum price",
+        "A fixed lump sum",
+        "A waiver of right to dispute charges"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-5",
+      "question": "If an arbitration clause is included in a home improvement contract, it must:",
+      "options": [
+        "Be written in boldface type and initialed by the homeowner",
+        "Be explained verbally only",
+        "Waive all homeowner rights to sue in court",
+        "Be included without disclosure"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-6",
+      "question": "Which of the following is required to be disclosed in a home improvement contract?",
+      "options": [
+        "Contractor’s past clients",
+        "Approximate project start and completion dates",
+        "Contractor’s supplier list",
+        "Contractor’s previous bond claims"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-7",
+      "question": "A written contract signed by both parties is considered:",
+      "options": [
+        "Legally binding under California law",
+        "Optional unless disputes arise",
+        "Enforceable only if notarized",
+        "Non-binding unless witnessed by a third party"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-8",
+      "question": "Advertising for construction services in California must include:",
+      "options": [
+        "The contractor’s name only",
+        "The contractor’s business license and license number",
+        "The contractor’s tax ID number",
+        "A signed statement from the client"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-9",
+      "question": "Unlicensed individuals may only perform construction work if the total cost (labor + materials) is under:",
+      "options": [
+        "$200",
+        "$1000",
+        "$1,000",
+        "$2,500"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-10",
+      "question": "CSLB can issue a citation and fine for:",
+      "options": [
+        "Failing to include a license number in an advertisement",
+        "Bidding on public works with a valid license",
+        "Using a logo in an ad",
+        "Charging standard rates"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-11",
+      "question": "If a contractor’s license is suspended for failure to maintain a bond, the contractor must:",
+      "options": [
+        "Continue working but delay advertising",
+        "Stop all work requiring a license until bond is reinstated",
+        "Work under a friend’s license",
+        "Continue residential work only"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-12",
+      "question": "A contractor may face criminal penalties for:",
+      "options": [
+        "Working unlicensed on a project over $500",
+        "Advertising for projects under $100",
+        "Using a business name different from license",
+        "Using subcontractors"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-13",
+      "question": "CSLB may revoke or suspend a license for:",
+      "options": [
+        "Failure to pay subcontractors and suppliers",
+        "Hiring licensed subcontractors",
+        "Charging a standard down payment",
+        "Changing the company name with CSLB approval"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-14",
+      "question": "What type of license is required for a contractor who wants to engage in residential remodeling that combines multiple trades?",
+      "options": [
+        "Class A General Engineering Contractor",
+        "Class B-2 Residential Remodeling Contractor",
+        "Class C Specialty Contractor",
+        "Class D General Labor Contractor"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-15",
+      "question": "To reinstate a revoked license, a contractor generally must:",
+      "options": [
+        "Reapply, meet all current requirements, and may need to retake the exam",
+        "File a complaint with CSLB",
+        "Obtain a waiver from another contractor",
+        "Pay a late renewal fee only"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-16",
+      "question": "Which of the following is prohibited under California licensing law?",
+      "options": [
+        "Operating under the exact name listed on license",
+        "Using another contractor’s license number to secure a contract",
+        "Providing written contracts",
+        "Including CSLB contact information on documents"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-17",
+      "question": "If a qualifying individual leaves the licensed entity, CSLB must be notified within:",
+      "options": [
+        "30 days",
+        "90 days",
+        "6 months",
+        "1 year"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-18",
+      "question": "A public works project is defined as:",
+      "options": [
+        "Any project costing more than $1000",
+        "Construction, alteration, or repair work paid in whole or part out of public funds",
+        "Only projects exceeding $1 million",
+        "Only state highway projects"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-19",
+      "question": "Contractors on public works projects of $1,000 or more must:",
+      "options": [
+        "Be registered with the Department of Industrial Relations (DIR)",
+        "Hold a federal contractor license",
+        "Provide free services to the city",
+        "Obtain a surety bond of $100,000"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-20",
+      "question": "On public works projects, prevailing wage rates are determined by:",
+      "options": [
+        "The general contractor’s bid price",
+        "The California Department of Industrial Relations",
+        "CSLB",
+        "The property owner"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-21",
+      "question": "A contractor who fails to pay prevailing wages on a public works project may face:",
+      "options": [
+        "No penalty if subcontractors are at fault",
+        "Civil penalties, debarment from future public work, and possible CSLB discipline",
+        "Loss of contractor bond only",
+        "Verbal warning from project manager"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-22",
+      "question": "A contractor bidding on a public works project must list subcontractors who will perform work:",
+      "options": [
+        "Valued over $10,000 or more than 0.5% of the total bid",
+        "Only if the owner requests it",
+        "Regardless of subcontract value",
+        "Only for material suppliers"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-23",
+      "question": "Retainage (retention) on public works contracts is typically limited to:",
+      "options": [
+        "2% of progress payments",
+        "5% of progress payments",
+        "10% of progress payments",
+        "Any amount the owner chooses"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-24",
+      "question": "Public agencies must release retention funds within:",
+      "options": [
+        "15 days of final acceptance",
+        "45 days of final acceptance",
+        "90 days of final acceptance",
+        "6 months after project completion"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-25",
+      "question": "On public works projects, an apprenticeship program must be used when:",
+      "options": [
+        "The project is under $10,000",
+        "The contract is over $30,000 and involves certain trades",
+        "The project is for private schools",
+        "Only union contractors are hired"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-26",
+      "question": "Certified payroll reports on public works projects must be submitted:",
+      "options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Only at the end of the project"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-27",
+      "question": "A stop payment notice on a public works project is used to:",
+      "options": [
+        "Stop the contractor from working",
+        "Direct the public agency to withhold funds to ensure payment to subcontractors and suppliers",
+        "Terminate the prime contract",
+        "Suspend prevailing wage obligations"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-28",
+      "question": "When subcontracting on a public works project, the prime contractor is responsible for:",
+      "options": [
+        "Ensuring subs are registered with DIR and paid prevailing wages",
+        "Paying only their own employees",
+        "Verifying supplier costs",
+        "Paying workers’ comp only"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-29",
+      "question": "A bid bond submitted with a public works bid:",
+      "options": [
+        "Ensures the contractor will enter the contract if awarded",
+        "Guarantees project completion",
+        "Guarantees material quality",
+        "Protects against liens"
+      ],
+      "correctAnswer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "q-30",
+      "question": "Which law regulates public works competitive bidding procedures in California?",
+      "options": [
+        "Labor Code Section 1770",
+        "Public Contract Code",
+        "CSLB administrative rules",
+        "California Civil Code"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-31",
+      "question": "A payment bond on a public works project protects:",
+      "options": [
+        "The owner from defective work",
+        "Subcontractors and suppliers ensuring they are paid",
+        "The prime contractor’s profits",
+        "The public agency from project delays"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    },
+    {
+      "id": "q-32",
+      "question": "A contractor who is debarred from public works may not:",
+      "options": [
+        "Hire new subcontractors",
+        "Bid or work on public projects for a specified period",
+        "Hold a contractor’s license",
+        "Obtain insurance coverage"
+      ],
+      "correctAnswer": 1,
+      "explanation": ""
+    }
+  ]
+}
