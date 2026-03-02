@@ -111,7 +111,7 @@ export function Dashboard({
             Buy Me a Coffee
           </a>
         </div>
-        <div className="grid md:grid-cols-3 gap-4 mt-6">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 mt-6">
           <div className="flex items-start gap-3">
             <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-1" />
             <div>
@@ -124,6 +124,13 @@ export function Dashboard({
             <div>
               <p className="text-white font-medium">310 Quiz Questions</p>
               <p className="text-sm text-slate-400">Test your knowledge</p>
+            </div>
+          </div>
+          <div className="flex items-start gap-3">
+            <Trophy className="w-6 h-6 text-purple-500 flex-shrink-0 mt-1" />
+            <div>
+              <p className="text-white font-medium">12 Practice Exams</p>
+              <p className="text-sm text-slate-400">Full-length exam simulations</p>
             </div>
           </div>
           <div className="flex items-start gap-3">
