@@ -156,7 +156,7 @@ Edit `src/data/quizzes.json` to add more questions. Format:
 
 ## 📸 Screenshots
 
-*Coming soon*
+![LMS Screenshot](public/screenshot.png)
 
 ## 🤝 Contributing
 

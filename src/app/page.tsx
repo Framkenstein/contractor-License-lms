@@ -239,7 +239,12 @@ export default function HomePage() {
                           <span className="flex-shrink-0 w-6 h-6 bg-amber-500/20 text-amber-500 rounded-full flex items-center justify-center text-xs font-medium">
                             {index + 1}
                           </span>
-                          <span className="text-sm leading-relaxed">{takeaway}</span>
+                          <span className="text-sm leading-relaxed" dangerouslySetInnerHTML={{
+                            __html: takeaway.replace(
+                              /(https?:\/\/[^\s]+)/g,
+                              '<a href="$1" target="_blank" rel="noopener noreferrer" class="text-amber-400 hover:text-amber-300 underline">$1</a>'
+                            )
+                          }} />
                         </li>
                       ))}
                     </ul>
