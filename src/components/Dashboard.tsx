@@ -89,9 +89,50 @@ export function Dashboard({
       >
         <h2 className="text-xl font-semibold text-white mb-4">About This Course</h2>
         <p className="text-slate-300 mb-4">
-          Welcome to this free B-2 Residential Remodeling Contractor License exam preparation course. 
-          Designed to help aspiring contractors pass their California State License Board (CSLB) exams with confidence.
+          Welcome to this free B-2 Residential Remodeling Contractor License exam preparation course. Designed to help aspiring contractors pass their California State License Board (CSLB) exams with confidence.
         </p>
+
+        <h3 className="text-lg font-semibold text-white mb-3">CSLB B-2 Exam Preparation Strategy and Resources</h3>
+        <p className="text-slate-300 mb-4">
+          The following outlines the specific study schedule, materials, and methodology I used to pass the CSLB B-2 Law &amp; Business and Trade exams on the first attempt. The total out-of-pocket cost for supplemental study materials was approximately $200.
+        </p>
+
+        <h4 className="text-md font-semibold text-white mb-2">Study Timeline</h4>
+        <p className="text-slate-300 mb-2">The preparation period spanned one month prior to the exam date:</p>
+        <ul className="text-slate-300 mb-4 list-disc list-inside ml-4">
+          <li><strong>Weeks 1–3:</strong> ~1 hour per day.</li>
+          <li><strong>Week 4:</strong> ~2–3 hours per day.</li>
+        </ul>
+
+        <h4 className="text-md font-semibold text-white mb-2">Study Materials and Costs</h4>
+        <ul className="text-slate-300 mb-4 space-y-3">
+          <li>
+            <strong>B-2 Prep Website (This Platform) – Free:</strong>
+            <ul className="list-disc list-inside ml-4 mt-1">
+              <li>Completed all 63 video lessons, 310 quiz questions, and 12 full-length practice exams.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Ultimate Electrician&apos;s Guide: CA Law &amp; Business Course – $99.00:</strong>
+            <ul className="list-disc list-inside ml-4 mt-1">
+              <li>Completed all video modules and practice quizzes. (Note: The CA Law &amp; Business exam is standardized across all CSLB trade classifications).</li>
+            </ul>
+          </li>
+          <li>
+            <strong>PSI Test Prep: Residential Contractor Study Packs – ~$100.00 Total:</strong>
+            <ul className="list-disc list-inside ml-4 mt-1">
+              <li>Used PSI materials to align with the official test administrator&apos;s content outline.</li>
+              <li><strong>Practice Tests ($49.95/month):</strong> Accessed 420 questions with explanations.</li>
+              <li><strong>Study-Pack ($49.99/year):</strong> Completed 3 full-length, timed diagnostic tests (240 questions total).</li>
+            </ul>
+          </li>
+        </ul>
+
+        <h4 className="text-md font-semibold text-white mb-2">Study Methodology</h4>
+        <ul className="text-slate-300 mb-4 list-disc list-inside ml-4">
+          <li>Watched all video lectures across this website (CaliforniaContractorsLicense.org), and the Ultimate Electrician&apos;s Guide</li>
+          <li>Completed all quizzes and Exams on this platform, the Ultimate Electrician&apos;s Guide, and PSI. These quizzes and exams were repeated until a minimum score of 90% was achieved on every individual test.</li>
+        </ul>
         
         {/* Donation Request */}
         <div className="bg-amber-500/10 border border-amber-500/30 rounded-xl p-4 mb-4">
